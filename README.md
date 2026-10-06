@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of kakifrucht/flarum-de.** Not for installation: use [Packagist](https://packagist.org/packages/kakifrucht/flarum-de) or the [upstream repository](https://github.com/Kakifrucht/flarum-de).
 
-**0** versions archived · Latest: [`2.0.23`](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v2.0.23) · License: `MIT` · Flarum: `^2.0`
+**141** versions archived · Latest: [`2.0.23`](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v2.0.23) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.11` | 2015-12-08 | `^0.1.0-beta.4` | [Browse](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v0.1.11) |
+| `0.10.0` | 2019-09-16 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v0.10.0) |
+| `0.11.0` | 2020-03-05 | `^0.1.0-beta.12` | [Browse](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v0.11.0) |
+| `0.12.0` | 2020-05-08 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v0.12.0) |
+| `0.12.1` | 2020-05-08 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v0.12.1) |
+| `0.13.0` | 2020-11-17 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v0.13.0) |
+| `0.13.1` | 2020-11-18 | `^0.1.0-beta.14` | [Browse](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v0.13.1) |
+| `0.14.0` | 2021-01-25 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v0.14.0) |
+| `0.14.1` | 2021-01-26 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v0.14.1) |
+| `0.14.2` | 2021-02-03 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v0.14.2) |
+
+[View all 141 versions](https://github.com/flarchive/kakifrucht-flarum-de/tags)
 
 Catalog entry: [packages/kakifrucht-flarum-de.json](https://github.com/flarchive/archive-index/blob/main/packages/kakifrucht-flarum-de.json)
 
