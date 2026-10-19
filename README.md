@@ -1,8 +1,14 @@
-# kakifrucht/flarum-de (Archive)
+# kakifrucht-flarum-de (Archive)
 
-> **Read-only archive of released versions of kakifrucht/flarum-de.** Not for installation: use [Packagist](https://packagist.org/packages/kakifrucht/flarum-de) or the [upstream repository](https://github.com/Kakifrucht/flarum-de).
+> **Read-only archive of released versions for cbmainz/flarum-de, kakifrucht/flarum-de.** Not for installation: use Packagist or the [upstream repository](https://github.com/Kakifrucht/flarum-de).
 
-**145** versions archived · Latest: [`2.0.25`](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v2.0.25) · License: `MIT` · Flarum: `^2.0`
+**146** versions archived · Latest: [`0.1.11`](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v0.1.11) · License: `MIT` · Flarum: `^0.1.0-beta.4`
+
+## Linked Packages
+
+This canonical archive repository hosts releases for the following Packagist packages:
+- [`cbmainz/flarum-de`](https://packagist.org/packages/cbmainz/flarum-de)
+- [`kakifrucht/flarum-de`](https://packagist.org/packages/kakifrucht/flarum-de)
 
 ## Archived Versions
 
@@ -19,9 +25,12 @@
 | `0.14.1` | 2021-01-26 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v0.14.1) |
 | `0.14.2` | 2021-02-03 | `^0.1.0-beta.15` | [Browse](https://github.com/flarchive/kakifrucht-flarum-de/tree/archive/v0.14.2) |
 
-[View all 145 versions](https://github.com/flarchive/kakifrucht-flarum-de/tags)
+[View all 146 versions](https://github.com/flarchive/kakifrucht-flarum-de/tags)
 
-Catalog entry: [packages/kakifrucht-flarum-de.json](https://github.com/flarchive/archive-index/blob/main/packages/kakifrucht-flarum-de.json)
+## Catalog entries
+
+- [`cbmainz/flarum-de`](https://github.com/flarchive/archive-index/blob/main/packages/cbmainz-flarum-de.json)
+- [`kakifrucht/flarum-de`](https://github.com/flarchive/archive-index/blob/main/packages/kakifrucht-flarum-de.json)
 
 ## About this archive
 
