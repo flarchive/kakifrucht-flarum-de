@@ -1,0 +1,2555 @@
+CHANGELOG
+=========
+
+
+2.0.28 (2026-10-29)
+-------------------
+
+**General changes**:
+
+* Updated Flarum core translations (2 changed).
+
+
+**Added support for new extensions**:
+
+* [`floxum/payments`](https://gitlab.com/floxum/extensions/flarum-ext-payments) (19% complete)
+* [`fof/translate`](https://github.com/FriendsOfFlarum/translate) (9% complete)
+
+
+**Updated translations for extensions**:
+
+* [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview) (24 changed, 100% complete)
+* [`ernestdefoe/cadence`](https://github.com/ernestdefoe/cadence) (4 added, 34% complete)
+* [`ernestdefoe/depot`](https://github.com/ernestdefoe/depot) (18 added, 92% complete)
+* [`ernestdefoe/digest-mail`](https://github.com/ernestdefoe/digest-mail) (300 added, 27% complete)
+* [`ernestdefoe/mobile-tab`](https://github.com/ernestdefoe/mobiletab) (4 added, 100% complete)
+* [`huseyinfiliz/rewind`](https://github.com/huseyinfiliz/rewind) (24 added, 2 changed, 100% complete)
+* [`linkrobins/support`](https://github.com/linkrobins/support) (10 added, 100% complete)
+* [`michaelbelgium/flarum-discussion-views`](https://github.com/MichaelBelgium/flarum-discussion-views) (2 added, 100% complete)
+
+
+All changes: [2.0.27...2.0.28](https://github.com/flarum-lang/german/compare/2.0.27...2.0.28).
+
+
+2.0.27 (2026-10-26)
+-------------------
+
+**Added support for new extensions**:
+
+* [`edgeinfinity/diy-homepage`](https://github.com/edgeinfinity1/flarum-diy-homepage) (13% complete)
+* [`ernestdefoe/brainstorm`](https://github.com/ernestdefoe/brainstorm) (49% complete)
+* [`ernestdefoe/cuecard`](https://github.com/ernestdefoe/cuecard) (100% complete)
+* [`ernestdefoe/docket`](https://github.com/ernestdefoe/docket) (10% complete)
+* [`ernestdefoe/onramp`](https://github.com/ernestdefoe/onramp) (43% complete)
+* [`ernestdefoe/pigeonhole`](https://github.com/ernestdefoe/pigeonhole) (100% complete)
+* [`ernestdefoe/resurface`](https://github.com/ernestdefoe/resurface) (40% complete)
+* [`ernestdefoe/velvet-rope`](https://github.com/ernestdefoe/velvet-rope) (10% complete)
+* [`huoxin/auto-follow-discussion`](https://github.com/huoxin233/flarum-ext-auto-follow-discussion) (100% complete)
+* [`xxb5724/ner`](https://github.com/Xiaoxiaobai5724/ner) (100% complete)
+
+
+**Updated translations for extensions**:
+
+* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) (22 added, 8 changed, 100% complete)
+* [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview) (2 changed, 100% complete)
+* [`ernestdefoe/cadence`](https://github.com/ernestdefoe/cadence) (102 added, 34% complete)
+* [`ernestdefoe/calendar`](https://github.com/ernestdefoe/calendar) (6 added, 4 changed, 100% complete)
+* [`ernestdefoe/curio`](https://github.com/ernestdefoe/curio) (426 added, 18 changed, 78% complete)
+* [`ernestdefoe/depot`](https://github.com/ernestdefoe/depot) (38 added, 90% complete)
+* [`ernestdefoe/gatehouse`](https://github.com/ernestdefoe/gatehouse) (32 added, 8 changed, 100% complete)
+* [`ernestdefoe/menu-control`](https://github.com/ernestdefoe/menu-control) (8 added, 2 changed, 100% complete)
+* [`ernestdefoe/recipes`](https://github.com/ernestdefoe/recipes) (30 added, 2 changed, 100% complete)
+* [`ernestdefoe/roleplay`](https://github.com/ernestdefoe/roleplay) (2 added, 1 changed, 100% complete)
+* [`ernestdefoe/shelf`](https://github.com/ernestdefoe/shelf) (2 added, 2 changed, 100% complete)
+* [`fof/badges`](https://github.com/FriendsOfFlarum/badges) (52 added, 100% complete)
+* [`fof/default-user-preferences`](https://github.com/FriendsOfFlarum/default-user-preferences) (4 added, 100% complete)
+* [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade) (4 added, 100% complete)
+* [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping) (4 added, 100% complete)
+* [`fof/rich-text`](https://github.com/FriendsOfFlarum/rich-text) (4 changed, 100% complete)
+* [`fof/sitemap`](https://github.com/FriendsOfFlarum/sitemap) (2 changed, 100% complete)
+* [`forumaker/vk-oauth`](https://github.com/forumaker/VK-Oauth) (2 changed, 100% complete)
+* [`ianm/twofactor`](https://github.com/imorland/flarum-ext-twofactor) (20 added, 100% complete)
+* [`linkrobins/html-widget`](https://github.com/linkrobins/html-widget) (6 added, 100% complete)
+* [`linkrobins/markdown-widget`](https://github.com/linkrobins/markdown-widget) (6 added, 100% complete)
+* [`linkrobins/support`](https://github.com/linkrobins/support) (72 added, 100% complete)
+* [`linkrobins/wiki`](https://github.com/linkrobins/flarum-wiki) (2 added, 100% complete)
+* [`michaelbelgium/mybb-to-flarum`](https://github.com/MichaelBelgium/mybb_to_flarum) (2 added, 100% complete)
+* [`tryhackx/flarum-cover-studio`](https://github.com/TryHackX/flarum-cover-studio) (2 added, 100% complete)
+* [`tryhackx/flarum-topic-rating`](https://github.com/TryHackX/flarum-topic-rating) (2 added, 100% complete)
+* [`walsgit/flarum-discussion-cards`](https://github.com/WalsGit/flarum-discussion-cards) (2 added, 100% complete)
+* [`walsgit/recycle-bin`](https://github.com/WalsGit/recycle-bin) (2 changed, 100% complete)
+
+
+All changes: [2.0.26...2.0.27](https://github.com/flarum-lang/german/compare/2.0.26...2.0.27).
+
+
+2.0.26 (2026-10-20)
+-------------------
+
+**General changes**:
+
+* Updated Flarum core translations (6 added).
+
+
+**Added support for new extensions**:
+
+* [`clarkwinkelmann/flarum-ext-likes-received`](https://github.com/clarkwinkelmann/flarum-ext-likes-received) (100% complete)
+* [`ernestdefoe/curio`](https://github.com/ernestdefoe/curio) (36% complete)
+* [`ernestdefoe/earshot`](https://github.com/ernestdefoe/earshot) (38% complete)
+* [`fof/discussion-language`](https://github.com/FriendsOfFlarum/discussion-language) (100% complete)
+* [`fof/mason`](https://github.com/FriendsOfFlarum/mason) (100% complete)
+* [`ianm/gravatar`](https://github.com/imorland/gravatar) (100% complete)
+
+
+**Updated translations for extensions**:
+
+* [`ernestdefoe/calendar`](https://github.com/ernestdefoe/calendar) (14 added, 2 changed, 100% complete)
+* [`ernestdefoe/club`](https://github.com/ernestdefoe/club) (84 added, 100% complete)
+* [`ernestdefoe/depot`](https://github.com/ernestdefoe/depot) (2 added, 84% complete)
+* [`ernestdefoe/group-messages`](https://github.com/ernestdefoe/group-messages) (22 added, 100% complete)
+* [`ernestdefoe/marquee`](https://github.com/ernestdefoe/marquee) (2 added, 4 changed, 100% complete)
+* [`ernestdefoe/recipes`](https://github.com/ernestdefoe/recipes) (110 added, 100% complete)
+* [`ernestdefoe/wardrobe`](https://github.com/ernestdefoe/wardrobe) (8 added, 100% complete)
+* [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam) (72 added, 6 changed, 100% complete)
+* [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions) (14 added, 100% complete)
+* [`fof/split`](https://github.com/FriendsOfFlarum/split) (4 added, 100% complete)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (2 added, 4 changed, 100% complete)
+* [`walsgit/recycle-bin`](https://github.com/WalsGit/recycle-bin) (40 added, 100% complete)
+
+
+All changes: [2.0.25...2.0.26](https://github.com/flarum-lang/german/compare/2.0.25...2.0.26).
+
+
+2.0.25 (2026-10-17)
+-------------------
+
+**Added support for new extensions**:
+
+* [`clarkwinkelmann/flarum-ext-prominent-post-numbers`](https://github.com/clarkwinkelmann/flarum-ext-prominent-post-numbers) (100% complete)
+* [`clarkwinkelmann/flarum-ext-selective-mediaembed`](https://github.com/clarkwinkelmann/flarum-ext-selective-mediaembed) (100% complete)
+* [`ernestdefoe/backdrop`](https://github.com/ernestdefoe/backdrop) (100% complete)
+* [`ernestdefoe/club`](https://github.com/ernestdefoe/club) (40% complete)
+* [`ernestdefoe/depot`](https://github.com/ernestdefoe/depot) (84% complete)
+* [`ernestdefoe/marquee`](https://github.com/ernestdefoe/marquee) (99% complete)
+* [`ernestdefoe/menu-control`](https://github.com/ernestdefoe/menu-control) (100% complete)
+* [`ernestdefoe/recipes`](https://github.com/ernestdefoe/recipes) (70% complete)
+* [`ernestdefoe/shelf`](https://github.com/ernestdefoe/shelf) (100% complete)
+* [`fof/brevo-mail`](https://github.com/FriendsOfFlarum/brevo-mail) (100% complete)
+* [`fof/mailtrap-mail`](https://github.com/FriendsOfFlarum/mailtrap-mail) (100% complete)
+* [`huoxin/filter-rule-manager`](https://github.com/huoxin233/flarum-ext-filter-rule-manager) (12% complete)
+* [`jslirola/flarum-registration-policy`](https://github.com/jslirola/flarum-registration-policy) (100% complete)
+* [`prm/analytics`](https://github.com/smmpanelscripts1/prm-analytics) (100% complete)
+* [`prm/forum-activity`](https://github.com/smmpanelscripts1/prm-forum-activity) (100% complete)
+* [`prm/moderation`](https://github.com/smmpanelscripts1/prm-moderation) (4% complete)
+
+
+**Updated translations for extensions**:
+
+* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache) (2 changed, 100% complete)
+* [`datlechin/flarum-simple-tour-guide`](https://github.com/datlechin/flarum-simple-tour-guide) (18 added, 14 changed, 100% complete)
+* [`ernestdefoe/calendar`](https://github.com/ernestdefoe/calendar) (66 added, 2 changed, 100% complete)
+* [`ernestdefoe/cross-references`](https://github.com/ernestdefoe/cross-references) (6 added, 100% complete)
+* [`ernestdefoe/gatehouse`](https://github.com/ernestdefoe/gatehouse) (28 added, 2 changed, 100% complete)
+* [`ernestdefoe/google-fonts`](https://github.com/ernestdefoe/google-fonts) (34 added, 100% complete)
+* [`ernestdefoe/importer`](https://github.com/ernestdefoe/importer) (50 added, 70% complete)
+* [`ernestdefoe/mobile-tab`](https://github.com/ernestdefoe/mobiletab) (46 added, 100% complete)
+* [`ernestdefoe/roleplay`](https://github.com/ernestdefoe/roleplay) (84 added, 100% complete)
+* [`ernestdefoe/scribe`](https://github.com/ernestdefoe/scribe) (4 added, 100% complete)
+* [`ernestdefoe/tributary`](https://github.com/ernestdefoe/tributary) (8 added, 100% complete)
+* [`flarum/gdpr`](https://github.com/flarum/gdpr) (6 added, 100% complete)
+* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer) (10 added, 20 changed, 100% complete)
+* [`fof/categories`](https://github.com/FriendsOfFlarum/categories) (20 changed, 100% complete)
+* [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts) (2 added, 100% complete)
+* [`fof/forum-widgets-core`](https://github.com/FriendsOfFlarum/forum-widgets-core) (2 added, 100% complete)
+* [`fof/github-sponsors`](https://github.com/FriendsOfFlarum/github-sponsors) (56 added, 6 changed, 100% complete)
+* [`fof/ignore-users`](https://github.com/FriendsOfFlarum/ignore-users) (4 added, 100% complete)
+* [`fof/linguist`](https://github.com/FriendsOfFlarum/linguist) (4 added, 4 changed, 100% complete)
+* [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade) (12 added, 6 changed, 100% complete)
+* [`fof/open-collective`](https://github.com/FriendsOfFlarum/open-collective) (54 added, 2 changed, 100% complete)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls) (26 added, 42 changed, 100% complete)
+* [`fof/pwa`](https://github.com/FriendsOfFlarum/pwa) (34 added, 2 changed, 100% complete)
+* [`forumfortress/flarum`](https://github.com/forum-fortress/flarum) (6 added, 2 changed, 100% complete)
+* [`ianm/html-head`](https://github.com/imorland/html-head) (6 added, 100% complete)
+* [`linkrobins/birdseye`](https://github.com/linkrobins/birdseye) (4 added, 100% complete)
+* [`linkrobins/discussion-banners`](https://github.com/linkrobins/flarum-discussion-banners) (8 added, 2 changed, 100% complete)
+* [`linkrobins/support`](https://github.com/linkrobins/support) (22 added, 4 changed, 100% complete)
+* [`linkrobins/flarum-warble`](https://github.com/linkrobins/warble) (34 added, 100% complete)
+* [`ramon/guest-cta`](https://github.com/ram0ng1/guest-cta) (8 added, 100% complete)
+* [`tryhackx/flarum-thumb-sliders`](https://github.com/TryHackX/flarum-thumb-sliders) (26 added, 100% complete)
+* [`tryhackx/flarum-topic-rating`](https://github.com/TryHackX/flarum-topic-rating) (48 added, 100% complete)
+
+
+All changes: [2.0.24...2.0.25](https://github.com/flarum-lang/german/compare/2.0.24...2.0.25).
+
+
+2.0.24 (2026-10-11)
+-------------------
+
+**General changes**:
+
+* Updated Flarum core translations (34 added, 2 changed).
+
+
+**Added support for new extensions**:
+
+* [`ernestdefoe/roleplay`](https://github.com/ernestdefoe/roleplay) (67% complete)
+* [`flarum/deck`](https://github.com/flarum/deck) (100% complete)
+* [`fof/upgrade-advisor`](https://github.com/FriendsOfFlarum/upgrade-advisor) (100% complete)
+* [`xxb5724/clipboardjs`](https://github.com/Xiaoxiaobai5724/clipboardjs) (100% complete)
+
+
+**Updated translations for extensions**:
+
+* [`ernestdefoe/giveaways`](https://github.com/ernestdefoe/giveaways) (8 added, 3% complete)
+* [`ernestdefoe/group-messages`](https://github.com/ernestdefoe/group-messages) (4 added, 100% complete)
+* [`ernestdefoe/steward`](https://github.com/ernestdefoe/steward) (18 added, 74% complete)
+* [`ernestdefoe/waymark`](https://github.com/ernestdefoe/waymark) (20 added, 100% complete)
+* [`flarum/messages`](https://github.com/flarum/messages) (36 added, 4 changed, 100% complete)
+* [`flarum/realtime`](https://github.com/flarum/realtime) (4 added, 100% complete)
+* [`flarum/tags`](https://github.com/flarum/tags) (6 added, 100% complete)
+* [`fof/horizon`](https://github.com/FriendsOfFlarum/horizon) (2 changed, 100% complete)
+* [`fof/links`](https://github.com/FriendsOfFlarum/links) (1 changed, 100% complete)
+* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) (10 added, 100% complete)
+* [`fof/online-users-widget`](https://github.com/FriendsOfFlarum/online-users-widget) (2 added, 100% complete)
+* [`fof/sentry`](https://github.com/FriendsOfFlarum/sentry) (16 changed, 100% complete)
+* [`fof/top-posters-widget`](https://github.com/FriendsOfFlarum/top-posters-widget) (2 added, 100% complete)
+* [`linkrobins/birdseye`](https://github.com/linkrobins/birdseye) (12 added, 6 changed, 100% complete)
+* [`linkrobins/support`](https://github.com/linkrobins/support) (2 added, 100% complete)
+* [`linkrobins/flarum-warble`](https://github.com/linkrobins/warble) (6 added, 15% complete)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado) (10 added, 100% complete)
+
+
+All changes: [2.0.23...2.0.24](https://github.com/flarum-lang/german/compare/2.0.23...2.0.24).
+
+
+2.0.23 (2026-10-06)
+-------------------
+
+**General changes**:
+
+* Updated Flarum core translations (1 changed).
+
+
+**Added support for new extensions**:
+
+* [`ernestdefoe/cadence`](https://github.com/ernestdefoe/cadence) (100% complete)
+* [`ernestdefoe/chronicle`](https://github.com/ernestdefoe/chronicle) (100% complete)
+* [`ernestdefoe/connect`](https://github.com/ernestdefoe/connect) (36% complete)
+* [`ernestdefoe/folio`](https://github.com/ernestdefoe/folio) (100% complete)
+* [`ernestdefoe/gatehouse`](https://github.com/ernestdefoe/gatehouse) (100% complete)
+* [`ernestdefoe/greeter`](https://github.com/ernestdefoe/greeter) (100% complete)
+* [`ernestdefoe/header-nav`](https://github.com/ernestdefoe/header-nav) (100% complete)
+* [`ernestdefoe/kindred`](https://github.com/ernestdefoe/kindred) (100% complete)
+* [`ernestdefoe/ladder`](https://github.com/ernestdefoe/ladder) (100% complete)
+* [`ernestdefoe/reel`](https://github.com/ernestdefoe/reel) (100% complete)
+* [`ernestdefoe/rubric`](https://github.com/ernestdefoe/rubric) (100% complete)
+* [`ernestdefoe/sheaf`](https://github.com/ernestdefoe/sheaf) (100% complete)
+* [`ernestdefoe/waymark`](https://github.com/ernestdefoe/waymark) (100% complete)
+* [`fof/discord-autolink`](https://github.com/FriendsOfFlarum/discord-autolink) (100% complete)
+* [`fof/mark-unread`](https://github.com/FriendsOfFlarum/mark-unread) (100% complete)
+
+
+**Updated translations for extensions**:
+
+* [`datlechin/flarum-references`](https://github.com/datlechin/flarum-references) (8 changed, 62% complete)
+* [`ernestdefoe/hero-builder`](https://github.com/ernestdefoe/hero-builder) (8 added, 100% complete)
+* [`ernestdefoe/scribe`](https://github.com/ernestdefoe/scribe) (32 added, 100% complete)
+* [`ernestdefoe/steward`](https://github.com/ernestdefoe/steward) (46 added, 58% complete)
+* [`ffans/community-notes`](https://github.com/FFans/community-notes) (178 added, 100% complete)
+* [`flarum/gdpr`](https://github.com/flarum/gdpr) (1 changed, 100% complete)
+* [`flarum/likes`](https://github.com/flarum/likes) (1 changed, 100% complete)
+* [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam) (2 added, 100% complete)
+* [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts) (2 added, 2 changed, 100% complete)
+* [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings) (1 changed, 100% complete)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload) (4 added, 4 changed, 100% complete)
+* [`linkrobins/birdseye`](https://github.com/linkrobins/birdseye) (20 added, 6 changed, 100% complete)
+* [`linkrobins/support`](https://github.com/linkrobins/support) (318 added, 100% complete)
+* [`linkrobins/wiki`](https://github.com/linkrobins/flarum-wiki) (114 added, 4 changed, 100% complete)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado) (70 added, 100% complete)
+* [`ramon/chat`](https://github.com/ram0ng1/chat) (126 added, 8 changed, 91% complete)
+* [`stezkoy/flarum-audex`](https://github.com/Stezkoy/flarum-audex) (38 added, 100% complete)
+* [`tryhackx/flarum-topic-rating`](https://github.com/TryHackX/flarum-topic-rating) (30 added, 100% complete)
+
+
+All changes: [2.0.22...2.0.23](https://github.com/flarum-lang/german/compare/2.0.22...2.0.23).
+
+
+2.0.22 (2026-10-02)
+-------------------
+
+**General changes**:
+
+* Updated Flarum core translations (4 changed).
+
+
+**Added support for new extensions**:
+
+* [`ffans/community-notes`](https://github.com/FFans/community-notes) (53% complete)
+* [`ffans/link-guard`](https://github.com/FFans/link-guard) (100% complete)
+* [`stezkoy/flarum-audex`](https://github.com/Stezkoy/flarum-audex) (67% complete)
+
+
+**Updated translations for extensions**:
+
+* [`acpl/my-tags`](https://github.com/android-com-pl/my-tags) (3 changed, 100% complete)
+* [`datlechin/flarum-copy-links`](https://github.com/datlechin/flarum-copy-links) (1 changed, 100% complete)
+* [`flarum/pusher`](https://github.com/flarum/pusher) (1 changed, 100% complete)
+* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth) (6 added, 4 changed, 100% complete)
+* [`fof/username-request`](https://github.com/FriendsOfFlarum/username-request) (8 changed, 100% complete)
+* [`huseyinfiliz/awards`](https://github.com/huseyinfiliz/awards) (8 added, 100% complete)
+* [`linkrobins/birdseye`](https://github.com/linkrobins/birdseye) (4 added, 100% complete)
+* [`linkrobins/countdown-widget`](https://github.com/linkrobins/countdown-widget) (6 added, 100% complete)
+* [`linkrobins/html-widget`](https://github.com/linkrobins/html-widget) (4 added, 2 changed, 100% complete)
+* [`ralkage/flarum-hcaptcha`](https://github.com/Ralkage/flarum-hcaptcha) (2 changed, 100% complete)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado) (42 added, 100% complete)
+* [`ramon/point-system`](https://github.com/ram0ng1/point-system) (64 added, 2 changed, 57% complete)
+* [`stezkoy/flarum-feed2forum`](https://github.com/Stezkoy/flarum-feed2forum) (54 added, 4 changed, 100% complete)
+* [`stezkoy/flarum-pagify`](https://github.com/Stezkoy/flarum-pagify) (14 added, 100% complete)
+
+
+All changes: [2.0.21...2.0.22](https://github.com/flarum-lang/german/compare/2.0.21...2.0.22).
+
+
+2.0.21 (2026-09-22)
+-------------------
+
+**Updated translations for extensions**:
+
+* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab) (40 added, 2 changed)
+* [`datlechin/flarum-bbcode-hide-content`](https://github.com/datlechin/flarum-bbcode-hide-content) (3 changed)
+* [`datlechin/flarum-passkey`](https://github.com/datlechin/flarum-passkey) (8 changed)
+* [`datlechin/flarum-references`](https://github.com/datlechin/flarum-references) (30 added)
+* [`ernestdefoe/logo-manager`](https://github.com/ernestdefoe/logo-manager) (30 added)
+* [`ernestdefoe/tributary`](https://github.com/ernestdefoe/tributary) (2 added)
+* [`ffans/threadmarks`](https://github.com/FFans/threadmarks) (2 changed)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions) (2 changed)
+* [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam) (6 changed)
+* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer) (2 changed)
+* [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags) (2 changed)
+* [`fof/impersonate`](https://github.com/FriendsOfFlarum/impersonate) (1 changed)
+* [`fof/linguist`](https://github.com/FriendsOfFlarum/linguist) (6 changed)
+* [`fof/username-request`](https://github.com/FriendsOfFlarum/username-request) (21 changed)
+* [`huseyinfiliz/flarum-diff`](https://github.com/huseyinfiliz/flarum-diff) (18 changed)
+* [`lcoy/cipher`](https://github.com/Lcoy2004/Flarum-cipher) (14 added, 4 changed)
+* [`linkrobins/birdseye`](https://github.com/linkrobins/birdseye) (4 changed)
+* [`linkrobins/support`](https://github.com/linkrobins/support) (60 added, 4 changed)
+* [`ralkage/flarum-hcaptcha`](https://github.com/Ralkage/flarum-hcaptcha) (3 changed)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado) (144 added)
+* [`ramon/point-system`](https://github.com/ram0ng1/point-system) (474 added, 2 changed)
+* [`resofire/digest-mail`](https://github.com/ResofireV2/digest-mail) (14 changed)
+* [`tapao/custom-landing-page`](https://github.com/Tapao-NonSen/Custom-Landing-Page) (6 changed)
+
+
+All changes: [2.0.20...2.0.21](https://github.com/flarum-lang/german/compare/2.0.20...2.0.21).
+
+
+2.0.20 (2026-09-19)
+-------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`ernestdefoe/garrison`](https://github.com/ernestdefoe/garrison)
+* [`huseyinfiliz/language-detection`](https://github.com/huseyinfiliz/language-detection)
+* [`linkrobins/flarum-swoop`](https://github.com/linkrobins/flarum-swoop)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab)
+* [`ernestdefoe/logo-manager`](https://github.com/ernestdefoe/logo-manager)
+* [`ernestdefoe/scribe`](https://github.com/ernestdefoe/scribe)
+* [`ffans/threadmarks`](https://github.com/FFans/threadmarks)
+* [`flarum/messages`](https://github.com/flarum/messages)
+* [`fof/blog`](https://github.com/FriendsOfFlarum/blog)
+* [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags)
+* [`fof/geoip`](https://github.com/FriendsOfFlarum/geoip)
+* [`fof/links`](https://github.com/FriendsOfFlarum/links)
+* [`fof/mailing`](https://github.com/FriendsOfFlarum/mailing)
+* [`fof/pwa`](https://github.com/FriendsOfFlarum/pwa)
+* [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions)
+* [`fof/seo`](https://github.com/FriendsOfFlarum/seo)
+* [`fof/signature`](https://github.com/FriendsOfFlarum/signature)
+* [`fof/socialprofile`](https://github.com/FriendsOfFlarum/socialprofile)
+* [`huseyinfiliz/rewind`](https://github.com/huseyinfiliz/rewind)
+* [`ianm/follow-users`](https://github.com/imorland/follow-users)
+* [`linkrobins/support`](https://github.com/linkrobins/support)
+* [`ramon/chat`](https://github.com/ram0ng1/chat)
+* [`ramon/point-system`](https://github.com/ram0ng1/point-system)
+* [`stezkoy/flarum-feed2forum`](https://github.com/Stezkoy/flarum-feed2forum)
+* [`stezkoy/flarum-time-of-magic`](https://github.com/Stezkoy/flarum-time-of-magic)
+
+
+Alle Änderungen: [2.0.19...2.0.20](https://github.com/flarum-lang/german/compare/2.0.19...2.0.20).
+
+
+2.0.19 (2026-09-15)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`datitisev/flarum-post-galleries`](https://github.com/dsevillamartin/flarum-post-galleries)
+* [`ernestdefoe/marginalia`](https://github.com/ernestdefoe/marginalia)
+* [`ernestdefoe/ridge`](https://github.com/ernestdefoe/ridge)
+* [`ernestdefoe/since`](https://github.com/ernestdefoe/since)
+* [`ernestdefoe/steward`](https://github.com/ernestdefoe/steward)
+* [`ernestdefoe/tributary`](https://github.com/ernestdefoe/tributary)
+* [`ernestdefoe/verbatim`](https://github.com/ernestdefoe/verbatim)
+* [`ernestdefoe/wardrobe`](https://github.com/ernestdefoe/wardrobe)
+* [`ernestdefoe/warren`](https://github.com/ernestdefoe/warren)
+* [`ffans/threadmarks`](https://github.com/FFans/threadmarks)
+* [`stezkoy/flarum-feed2forum`](https://github.com/Stezkoy/flarum-feed2forum)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`datlechin/flarum-simple-tour-guide`](https://github.com/datlechin/flarum-simple-tour-guide)
+* [`ernestdefoe/cascade`](https://github.com/ernestdefoe/cascade)
+* [`fof/links`](https://github.com/FriendsOfFlarum/links)
+* [`forumfortress/flarum`](https://github.com/forum-fortress/flarum)
+* [`ramon/chat`](https://github.com/ram0ng1/chat)
+
+
+Alle Änderungen: [2.0.18...2.0.19](https://github.com/flarum-lang/german/compare/2.0.18...2.0.19).
+
+
+2.0.18 (2026-09-11)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`datlechin/flarum-placements`](https://github.com/datlechin/flarum-placements)
+* [`datlechin/flarum-references`](https://github.com/datlechin/flarum-references)
+* [`datlechin/flarum-simple-tour-guide`](https://github.com/datlechin/flarum-simple-tour-guide)
+* [`ernestdefoe/cascade`](https://github.com/ernestdefoe/cascade)
+* [`ernestdefoe/hashtags`](https://github.com/ernestdefoe/hashtags)
+* [`ernestdefoe/logo-manager`](https://github.com/ernestdefoe/logo-manager)
+* [`huseyinfiliz/discussion-ban`](https://github.com/huseyinfiliz/discussion-ban)
+* [`jslirola/flarum-ext-login2seeplus`](https://github.com/jslirola/flarum-ext-login2seeplus)
+* [`stezkoy/flarum-doorquest`](https://github.com/Stezkoy/flarum-doorquest)
+* [`stezkoy/flarum-modularis`](https://github.com/Stezkoy/flarum-modularis)
+* [`stezkoy/flarum-pagify`](https://github.com/Stezkoy/flarum-pagify)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview)
+* [`ekumanov/flarum-ext-forum-widgets`](https://github.com/ekumanov/flarum-ext-forum-stats-widget)
+* [`ernestdefoe/discussion-participants`](https://github.com/ernestdefoe/discussion-participants)
+* [`ernestdefoe/social-groups`](https://github.com/ernestdefoe/social-groups)
+* [`ffans/geetest`](https://github.com/FFans/geetest)
+* [`flectar/flarum-turnstile`](https://github.com/flectar/flarum-ext-turnstile)
+* [`fof/links`](https://github.com/FriendsOfFlarum/links)
+* [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
+* [`fof/pwa`](https://github.com/FriendsOfFlarum/pwa)
+* [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions)
+* [`fof/rich-text`](https://github.com/FriendsOfFlarum/rich-text)
+* [`forumaker/magicdice`](https://github.com/forumaker/magicdice)
+* [`forumaker/magicslider`](https://github.com/forumaker/magicslider)
+* [`forumfortress/flarum`](https://github.com/forum-fortress/flarum)
+* [`huseyinfiliz/rewind`](https://github.com/huseyinfiliz/rewind)
+* [`linkrobins/wiki`](https://github.com/linkrobins/flarum-wiki)
+* [`pianotell/flarum-ext-flamoji`](https://github.com/PrimateCoder/flarum-flamoji)
+* [`stezkoy/flarum-time-of-magic`](https://github.com/Stezkoy/flarum-time-of-magic)
+* [`tapao/custom-landing-page`](https://github.com/Tapao-NonSen/Custom-Landing-Page)
+* [`tryhackx/flarum-topic-rating`](https://github.com/TryHackX/flarum-topic-rating)
+* [`flarum/gdpr`](https://github.com/flarum/gdpr)
+* [`flarum/mentions`](https://github.com/flarum/mentions)
+
+
+Alle Änderungen: [2.0.17...2.0.18](https://github.com/flarum-lang/german/compare/2.0.17...2.0.18).
+
+
+2.0.17 (2026-09-03)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`ernestdefoe/discussion-participants`](https://github.com/ernestdefoe/discussion-participants)
+* [`ernestdefoe/scribe`](https://github.com/ernestdefoe/scribe)
+* [`stezkoy/flarum-time-of-magic`](https://github.com/Stezkoy/flarum-time-of-magic)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`datlechin/flarum-keyboard-shortcuts`](https://github.com/datlechin/flarum-keyboard-shortcuts)
+* [`ernestdefoe/calendar`](https://github.com/ernestdefoe/calendar)
+* [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam)
+* [`fof/cookie-consent`](https://github.com/FriendsOfFlarum/cookie-consent)
+* [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
+* [`fof/geoip`](https://github.com/FriendsOfFlarum/geoip)
+* [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
+* [`forumaker/friendship`](https://github.com/forumaker/Friendship)
+* [`huseyinfiliz/leaderboard`](https://github.com/huseyinfiliz/leaderboard)
+* [`ianm/follow-users`](https://github.com/imorland/follow-users)
+* [`linkrobins/support`](https://github.com/linkrobins/support)
+* [`tryhackx/flarum-topic-rating`](https://github.com/TryHackX/flarum-topic-rating)
+
+
+Alle Änderungen: [2.0.16...2.0.17](https://github.com/flarum-lang/german/compare/2.0.16...2.0.17).
+
+
+2.0.16 (2026-08-31)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`datlechin/flarum-debugbar`](https://github.com/datlechin/flarum-debugbar)
+* [`datlechin/flarum-keyboard-shortcuts`](https://github.com/datlechin/flarum-keyboard-shortcuts)
+* [`ernestdefoe/opensearch`](https://github.com/ernestdefoe/opensearch)
+* [`ffans/bbcode-studio`](https://github.com/FFans/bbcode-studio)
+* [`ffans/creator-declarations`](https://github.com/FFans/creator-declarations)
+* [`ffans/geetest`](https://github.com/FFans/geetest)
+* [`fof/cookie-consent`](https://github.com/FriendsOfFlarum/cookie-consent)
+* [`fof/pwa`](https://github.com/FriendsOfFlarum/pwa)
+* [`forumaker/friendship`](https://github.com/forumaker/Friendship)
+* [`glowingblue/author-filter`](https://github.com/glowingblue/flarum-ext-author-filter)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`datlechin/flarum-link-clicks`](https://github.com/datlechin/flarum-link-clicks)
+* [`ernestdefoe/calendar`](https://github.com/ernestdefoe/calendar)
+* [`ernestdefoe/group-messages`](https://github.com/ernestdefoe/group-messages)
+* [`fof/analytics`](https://github.com/FriendsOfFlarum/analytics)
+* [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam)
+* [`fof/default-group`](https://github.com/FriendsOfFlarum/default-group)
+* [`huseyinfiliz/rewind`](https://github.com/huseyinfiliz/rewind)
+* [`linkrobins/birdseye`](https://github.com/linkrobins/birdseye)
+* [`linkrobins/flarum-chirp`](https://github.com/linkrobins/chirp)
+* [`linkrobins/shoutbox`](https://github.com/linkrobins/shoutbox)
+* [`linkrobins/flarum-warble`](https://github.com/linkrobins/warble)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado)
+* [`ramon/chat`](https://github.com/ram0ng1/chat)
+* [`tryhackx/flarum-homepage-blocks`](https://github.com/TryHackX/flarum-homepage-blocks)
+
+
+Alle Änderungen: [2.0.15...2.0.16](https://github.com/flarum-lang/german/compare/2.0.15...2.0.16).
+
+
+2.0.15 (2026-08-24)
+-------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`fof/first-post-approval`](https://github.com/FriendsOfFlarum/first-post-approval)
+* [`forumaker/vk-oauth`](https://github.com/forumaker/VK-Oauth)
+* [`linkrobins/flarum-forage`](https://github.com/linkrobins/flarum-forage)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`datitisev/flarum-backup`](https://flarum.org/extension/datitisev/flarum-backup)
+* [`datlechin/flarum-link-clicks`](https://github.com/datlechin/flarum-link-clicks)
+* [`ernestdefoe/importer`](https://github.com/ernestdefoe/importer)
+* [`flarum/akismet`](https://github.com/flarum/akismet)
+* [`flarum/audit`](https://github.com/flarum/audit)
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+* [`flarum/realtime`](https://github.com/flarum/realtime)
+* [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`flarum/tags`](https://github.com/flarum/tags)
+* [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
+* [`fof/filter`](https://github.com/FriendsOfFlarum/filter)
+* [`fof/horizon`](https://github.com/FriendsOfFlarum/horizon)
+* [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
+* [`forumaker/profile-cover`](https://github.com/forumaker/Profile-Cover)
+* [`forumfortress/flarum`](https://github.com/forum-fortress/flarum)
+* [`linkrobins/birdseye`](https://github.com/linkrobins/birdseye)
+* [`linkrobins/wiki`](https://github.com/linkrobins/flarum-wiki)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado)
+* [`tryhackx/flarum-cover-studio`](https://github.com/TryHackX/flarum-cover-studio)
+* [`tryhackx/flarum-homepage-blocks`](https://github.com/TryHackX/flarum-homepage-blocks)
+
+
+Alle Änderungen: [2.0.14...2.0.15](https://github.com/flarum-lang/german/compare/2.0.14...2.0.15).
+
+
+2.0.14 (2026-08-16)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`asyntai/flarum-chatbot`](https://github.com/asyntai/flarum-chatbot)
+* [`fof/filter`](https://github.com/FriendsOfFlarum/filter)
+* [`linkrobins/auto-lock`](https://github.com/linkrobins/auto-lock)
+* [`linkrobins/link-gate`](https://github.com/linkrobins/flarum-link-gate)
+* [`linkrobins/mobile-logo`](https://github.com/linkrobins/mobile-logo)
+* [`ramon/mail-reply`](https://github.com/ram0ng1/mail-reply)
+* [`tryhackx/flarum-cover-studio`](https://github.com/TryHackX/flarum-cover-studio)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer)
+* [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
+* [`fof/profile-image-crop`](https://github.com/FriendsOfFlarum/profile-image-crop)
+* [`fof/socialprofile`](https://github.com/FriendsOfFlarum/socialprofile)
+* [`fof/synopsis`](https://github.com/FriendsOfFlarum/synopsis)
+* [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory)
+* [`forumfortress/flarum`](https://github.com/forum-fortress/flarum)
+* [`lcoy/cipher`](https://github.com/Lcoy2004/Flarum-cipher)
+* [`linkrobins/badge-labels`](https://github.com/linkrobins/flarum-badge-labels)
+* [`xxb5724/catch-the-fish`](https://github.com/Xiaoxiaobai5724/catch-the-fish)
+
+
+Alle Änderungen: [2.0.13...2.0.14](https://github.com/flarum-lang/german/compare/2.0.13...2.0.14).
+
+
+2.0.13 (2026-08-12)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`ernestdefoe/onair`](https://github.com/ernestdefoe/onair)
+* [`huoxin/money-with-history`](https://github.com/huoxin233/flarum-ext-money-with-history)
+* [`lcoy/cipher`](https://github.com/Lcoy2004/Flarum-cipher)
+* [`linkrobins/flarum-chirp`](https://github.com/linkrobins/chirp)
+* [`xxb5724/catch-the-fish`](https://github.com/Xiaoxiaobai5724/catch-the-fish)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`fof/badges`](https://github.com/FriendsOfFlarum/badges)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
+* [`forumfortress/flarum`](https://github.com/forum-fortress/flarum)
+* [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox)
+* [`linkrobins/badge-labels`](https://github.com/linkrobins/flarum-badge-labels)
+* [`linkrobins/birdseye`](https://github.com/linkrobins/birdseye)
+* [`linkrobins/referral`](https://github.com/linkrobins/referral)
+* [`linkrobins/support`](https://github.com/linkrobins/support)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado)
+* [`ramon/chat`](https://github.com/ram0ng1/chat)
+* [`ramon/verified`](https://github.com/ram0ng1/verified)
+* [`shebaoting/flarum-dependency-collector`](https://github.com/shebaoting/flarum-dependency-collector)
+* [`tryhackx/flarum-homepage-blocks`](https://github.com/TryHackX/flarum-homepage-blocks)
+* [`tryhackx/flarum-thumb-sliders`](https://github.com/TryHackX/flarum-thumb-sliders)
+
+
+Alle Änderungen: [2.0.12...2.0.13](https://github.com/flarum-lang/german/compare/2.0.12...2.0.13).
+
+
+2.0.12 (2026-08-05)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`fof/bookmarks`](https://github.com/FriendsOfFlarum/bookmarks)
+* [`forumfortress/flarum`](https://github.com/forum-fortress/flarum)
+* [`linkrobins/discussion-banners`](https://github.com/linkrobins/flarum-discussion-banners)
+* [`shebaoting/flarum-dependency-collector`](https://github.com/shebaoting/flarum-dependency-collector)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`fof/split`](https://github.com/FriendsOfFlarum/split)
+* [`huseyinfiliz/stickiest`](https://github.com/huseyinfiliz/stickiest)
+* [`linkrobins/badge-labels`](https://github.com/linkrobins/flarum-badge-labels)
+* [`ramon/chat`](https://github.com/ram0ng1/chat)
+* [`tryhackx/flarum-thumb-sliders`](https://github.com/TryHackX/flarum-thumb-sliders)
+
+
+Alle Änderungen: [2.0.11...2.0.12](https://github.com/flarum-lang/german/compare/2.0.11...2.0.12).
+
+
+2.0.11 (2026-08-03)
+-------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`ernestdefoe/importer`](https://github.com/ernestdefoe/importer)
+* [`ernestdefoe/janitor`](https://github.com/ernestdefoe/janitor)
+* [`ernestdefoe/typesense`](https://github.com/ernestdefoe/typesense)
+* [`fof/blog`](https://github.com/FriendsOfFlarum/blog)
+* [`linkrobins/badge-labels`](https://github.com/linkrobins/flarum-badge-labels)
+* [`linkrobins/birdseye`](https://github.com/linkrobins/birdseye)
+* [`linkrobins/wiki`](https://github.com/linkrobins/flarum-wiki)
+* [`ramon/chat`](https://github.com/ram0ng1/chat)
+* [`u0-ani-nya/ani-nya_i18n`](https://github.com/u0-ani-nya/ani-nya_i18n)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache)
+* [`datlechin/flarum-mermaid`](https://github.com/datlechin/flarum-mermaid)
+* [`ernestdefoe/group-messages`](https://github.com/ernestdefoe/group-messages)
+* [`flarum/tags`](https://github.com/flarum/tags)
+* [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu)
+* [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification)
+* [`fof/moderator-notes`](https://github.com/FriendsOfFlarum/moderator-notes)
+* [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
+* [`fof/webhooks`](https://github.com/FriendsOfFlarum/webhooks)
+* [`forumaker/profile-cover`](https://github.com/forumaker/Profile-Cover)
+* [`ianm/twofactor`](https://github.com/imorland/flarum-ext-twofactor)
+* [`justoverclock/related-discussions`](https://flarum.org/extension/justoverclock/related-discussions)
+* [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox)
+* [`linkrobins/font-sizer`](https://github.com/linkrobins/font-sizer)
+* [`linkrobins/html-widget`](https://github.com/linkrobins/html-widget)
+* [`linkrobins/markdown-widget`](https://github.com/linkrobins/markdown-widget)
+* [`linkrobins/referral`](https://github.com/linkrobins/referral)
+* [`linkrobins/shoutbox`](https://github.com/linkrobins/shoutbox)
+* [`ramon/backup`](https://github.com/ram0ng1/backup)
+* [`tryhackx/flarum-advanced-pages`](https://github.com/TryHackX/flarum-advanced-pages)
+* [`flarum/flags`](https://github.com/flarum/flags)
+
+
+Alle Änderungen: [2.0.10...2.0.11](https://github.com/flarum-lang/german/compare/2.0.10...2.0.11).
+
+
+2.0.10 (2026-07-13)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`ernestdefoe/maintenance`](https://github.com/ernestdefoe/maintenance)
+* [`ernestdefoe/topic-map`](https://github.com/ernestdefoe/topic-map)
+* [`huseyinfiliz/notificationhub`](https://github.com/huseyinfiliz/notificationhub)
+* [`huseyinfiliz/simple-dark-mode`](https://github.com/huseyinfiliz/simple-dark-mode)
+* [`linkrobins/flarum-warble`](https://github.com/linkrobins/warble)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab)
+* [`datlechin/flarum-link-clicks`](https://github.com/datlechin/flarum-link-clicks)
+* [`datlechin/flarum-tag-passwords`](https://github.com/datlechin/flarum-tag-passwords)
+* [`ernestdefoe/flarum-facebook-post`](https://github.com/ernestdefoe/flarum-facebook-post)
+* [`ernestdefoe/hero-builder`](https://github.com/ernestdefoe/hero-builder)
+* [`ernestdefoe/respawn`](https://github.com/ernestdefoe/respawn)
+* [`flarum/audit`](https://github.com/flarum/audit)
+* [`flarum/realtime`](https://github.com/flarum/realtime)
+* [`flarum/tags`](https://github.com/flarum/tags)
+* [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam)
+* [`fof/badges`](https://github.com/FriendsOfFlarum/badges)
+* [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips)
+* [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu)
+* [`fof/categories`](https://github.com/FriendsOfFlarum/categories)
+* [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates)
+* [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags)
+* [`fof/impersonate`](https://github.com/FriendsOfFlarum/impersonate)
+* [`fof/merge-discussions`](https://github.com/FriendsOfFlarum/merge-discussions)
+* [`fof/move-posts`](https://github.com/FriendsOfFlarum/move-posts)
+* [`fof/seo`](https://github.com/FriendsOfFlarum/seo)
+* [`fof/sitemap`](https://github.com/FriendsOfFlarum/sitemap)
+* [`fof/split`](https://github.com/FriendsOfFlarum/split)
+* [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio)
+* [`fof/username-request`](https://github.com/FriendsOfFlarum/username-request)
+* [`fof/webhooks`](https://github.com/FriendsOfFlarum/webhooks)
+* [`forumaker/magicbb`](https://github.com/forumaker/magicbb)
+* [`forumaker/magicslider`](https://github.com/forumaker/magicslider)
+* [`forumaker/statser`](https://github.com/forumaker/Statser)
+* [`huseyinfiliz/leaderboard`](https://github.com/huseyinfiliz/leaderboard)
+* [`huseyinfiliz/modern-footer`](https://github.com/huseyinfiliz/modern-footer)
+* [`huseyinfiliz/rewind`](https://github.com/huseyinfiliz/rewind)
+* [`huseyinfiliz/stickiest`](https://github.com/huseyinfiliz/stickiest)
+* [`huseyinfiliz/sticky-title`](https://github.com/huseyinfiliz/sticky-title)
+* [`ianm/syndication`](https://github.com/imorland/syndication)
+* [`linkrobins/countdown-widget`](https://github.com/linkrobins/countdown-widget)
+* [`linkrobins/referral`](https://github.com/linkrobins/referral)
+* [`linkrobins/toc`](https://github.com/linkrobins/toc)
+* [`michaelbelgium/flarum-ai-autoreply`](https://github.com/MichaelBelgium/flarum-ai-autoreply)
+* [`migratetoflarum/fake-data`](https://github.com/migratetoflarum/fake-data)
+* [`quasimo/flarum-ext-tag-sidebar`](https://github.com/Quasimo/flarum-ext-tag-sidebar)
+* [`ralkage/flarum-ext-civility-filter`](https://github.com/Ralkage/flarum-ext-civility-filter)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado)
+* [`ramon/backup`](https://github.com/ram0ng1/backup)
+* [`resofire/blog-cards`](https://github.com/ResofireV2/blog-cards)
+* [`resofire/menu-control`](https://github.com/ResofireV2/menu-control)
+* [`shebaoting/flarum-rss`](https://github.com/shebaoting/flarum-rss)
+* [`tapao/custom-landing-page`](https://github.com/Tapao-NonSen/Custom-Landing-Page)
+* [`tryhackx/flarum-homepage-blocks`](https://github.com/TryHackX/flarum-homepage-blocks)
+* [`walsgit/flarum-discussion-cards`](https://github.com/WalsGit/flarum-discussion-cards)
+* [`yippy/flarum-tag-with-themes`](https://github.com/Yippy/flarum-tag-with-themes)
+* [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping)
+
+
+Alle Änderungen: [2.0.9...2.0.10](https://github.com/flarum-lang/german/compare/2.0.9...2.0.10).
+
+
+2.0.9 (2026-07-03)
+------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`ernestdefoe/digest-mail`](https://github.com/ernestdefoe/digest-mail)
+* [`ernestdefoe/federation`](https://github.com/ernestdefoe/federation)
+* [`ernestdefoe/hero-builder`](https://github.com/ernestdefoe/hero-builder)
+* [`fof/amazon-affiliation`](https://github.com/FriendsOfFlarum/amazon-affiliation)
+* [`fof/author-change`](https://github.com/FriendsOfFlarum/author-change)
+* [`linkrobins/auto-verify`](https://github.com/linkrobins/auto-verify)
+* [`peopleinside/flarum-ext-antiflood`](https://github.com/PeopleInside/flarum-ext-antiflood)
+* [`shebaoting/flarum-avatar`](https://github.com/shebaoting/flarum-avatar)
+* [`shebaoting/flarum-money`](https://github.com/shebaoting/flarum-money)
+* [`shebaoting/flarum-repost`](https://github.com/shebaoting/flarum-repost)
+* [`shebaoting/flarum-rss`](https://github.com/shebaoting/flarum-rss)
+* [`tapao/auto-ai-moderation`](https://github.com/Tapao-NonSen/Auto-AI-Moderation)
+* [`tapao/custom-landing-page`](https://github.com/Tapao-NonSen/Custom-Landing-Page)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab)
+* [`ernestdefoe/google-fonts`](https://github.com/ernestdefoe/google-fonts)
+* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer)
+* [`fof/geoip`](https://github.com/FriendsOfFlarum/geoip)
+* [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
+* [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha)
+* [`linkrobins/font-sizer`](https://github.com/linkrobins/font-sizer)
+* [`linkrobins/shoutbox`](https://github.com/linkrobins/shoutbox)
+* [`peopleinside/fla-powcaptcha`](https://github.com/PeopleInside/fla-powcaptcha)
+* [`pianotell/flarum-ext-flamoji`](https://github.com/PrimateCoder/flarum-flamoji)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado)
+* [`tryhackx/flarum-advanced-pages`](https://github.com/TryHackX/flarum-advanced-pages)
+
+
+Alle Änderungen: [2.0.8...2.0.9](https://github.com/flarum-lang/german/compare/2.0.8...2.0.9).
+
+
+2.0.8 (2026-06-19)
+------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`ernestdefoe/flarum-facebook-post`](https://github.com/ernestdefoe/flarum-facebook-post)
+* [`ernestdefoe/mobile-tab`](https://github.com/ernestdefoe/mobiletab)
+* [`flarum/audit`](https://github.com/flarum/audit)
+* [`glowingblue/password-strength`](https://github.com/glowingblue/flarum-ext-password-strength)
+* [`ianm/online-guests`](https://github.com/imorland/flarum-ext-online-guests-widget)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`flarum/approval`](https://github.com/flarum/approval)
+* [`flarum/flags`](https://github.com/flarum/flags)
+* [`flarum/gdpr`](https://github.com/flarum/gdpr)
+* [`flarum/lock`](https://github.com/flarum/lock)
+* [`flarum/nicknames`](https://github.com/flarum/nicknames)
+* [`flarum/pusher`](https://github.com/flarum/pusher)
+* [`flarum/realtime`](https://github.com/flarum/realtime)
+* [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`flarum/suspend`](https://github.com/flarum/suspend)
+* [`flarum/tags`](https://github.com/flarum/tags)
+* [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam)
+* [`fof/default-user-preferences`](https://github.com/FriendsOfFlarum/default-user-preferences)
+* [`fof/move-posts`](https://github.com/FriendsOfFlarum/move-posts)
+* [`fof/terms`](https://github.com/FriendsOfFlarum/terms)
+* [`peopleinside/fla-powcaptcha`](https://github.com/PeopleInside/fla-powcaptcha)
+* [`ralkage/flarum-hcaptcha`](https://github.com/Ralkage/flarum-hcaptcha)
+* [`tryhackx/flarum-homepage-blocks`](https://github.com/TryHackX/flarum-homepage-blocks)
+
+
+Alle Änderungen: [2.0.7...2.0.8](https://github.com/flarum-lang/german/compare/2.0.7...2.0.8).
+
+
+2.0.7 (2026-06-12)
+------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`ernestdefoe/calendar`](https://github.com/ernestdefoe/calendar)
+* [`ernestdefoe/giveaways`](https://github.com/ernestdefoe/giveaways)
+* [`ernestdefoe/group-messages`](https://github.com/ernestdefoe/group-messages)
+* [`forumaker/statser`](https://github.com/forumaker/Statser)
+* [`linkrobins/toc`](https://github.com/linkrobins/toc)
+* [`ramon/backup`](https://github.com/ram0ng1/backup)
+* [`ramon/point-system`](https://github.com/ram0ng1/point-system)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`datlechin/flarum-link-clicks`](https://github.com/datlechin/flarum-link-clicks)
+* [`datlechin/flarum-passkey`](https://github.com/datlechin/flarum-passkey)
+* [`ernestdefoe/respawn`](https://github.com/ernestdefoe/respawn)
+* [`ernestdefoe/seo`](https://github.com/ernestdefoe/seo)
+* [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification)
+* [`fof/geoip`](https://github.com/FriendsOfFlarum/geoip)
+* [`fof/seo`](https://github.com/FriendsOfFlarum/seo)
+* [`fof/terms`](https://github.com/FriendsOfFlarum/terms)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
+* [`forumaker/bento`](https://github.com/forumaker/Bento)
+* [`linkrobins/blog`](https://github.com/linkrobins/blog)
+* [`linkrobins/support`](https://github.com/linkrobins/support)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado)
+* [`tryhackx/flarum-advanced-pages`](https://github.com/TryHackX/flarum-advanced-pages)
+* [`tryhackx/flarum-homepage-blocks`](https://github.com/TryHackX/flarum-homepage-blocks)
+* [`tryhackx/flarum-thumb-sliders`](https://github.com/TryHackX/flarum-thumb-sliders)
+
+
+Alle Änderungen: [2.0.6...2.0.7](https://github.com/flarum-lang/german/compare/2.0.6...2.0.7).
+
+
+2.0.6 (2026-06-09)
+------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
+* [`datlechin/flarum-passkey`](https://github.com/datlechin/flarum-passkey)
+* [`ernestdefoe/google-fonts`](https://github.com/ernestdefoe/google-fonts)
+* [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips)
+* [`fof/doorman`](https://github.com/FriendsOfFlarum/doorman)
+* [`fof/seo`](https://github.com/FriendsOfFlarum/seo)
+* [`fof/signature`](https://github.com/FriendsOfFlarum/signature)
+* [`huseyinfiliz/sticky-title`](https://github.com/huseyinfiliz/sticky-title)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+* [`flarum/flags`](https://github.com/flarum/flags)
+* [`fof/badges`](https://github.com/FriendsOfFlarum/badges)
+* [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts)
+* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth)
+* [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions)
+* [`fof/sitemap`](https://github.com/FriendsOfFlarum/sitemap)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
+* [`fof/webhooks`](https://github.com/FriendsOfFlarum/webhooks)
+* [`linkrobins/blog`](https://github.com/linkrobins/blog)
+* [`linkrobins/clipboard`](https://github.com/linkrobins/clipboard)
+* [`linkrobins/countdown-widget`](https://github.com/linkrobins/countdown-widget)
+* [`linkrobins/font-sizer`](https://github.com/linkrobins/font-sizer)
+* [`linkrobins/referral`](https://github.com/linkrobins/referral)
+* [`linkrobins/shoutbox`](https://github.com/linkrobins/shoutbox)
+* [`peopleinside/fla-powcaptcha`](https://github.com/PeopleInside/fla-powcaptcha)
+* [`ralkage/flarum-ext-profile-messages`](https://github.com/Ralkage/flarum-ext-profile-messages)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado)
+* [`tryhackx/flarum-homepage-blocks`](https://github.com/TryHackX/flarum-homepage-blocks)
+* [`tryhackx/flarum-magnet-link`](https://github.com/TryHackX/flarum-magnet-link)
+
+
+Alle Änderungen: [2.0.5...2.0.6](https://github.com/flarum-lang/german/compare/2.0.5...2.0.6).
+
+
+2.0.5 (2026-06-02)
+------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`ernestdefoe/aurora`](https://github.com/ernestdefoe/aurora)
+* [`ernestdefoe/respawn`](https://github.com/ernestdefoe/respawn)
+* [`ernestdefoe/seo`](https://github.com/ernestdefoe/seo)
+* [`ernestdefoe/theme-toggle`](https://github.com/ernestdefoe/theme-toggle)
+* [`forumaker/bento`](https://github.com/forumaker/Bento)
+* [`forumaker/steam-oauth`](https://github.com/forumaker/Steam-Oauth)
+* [`linkrobins/font-sizer`](https://github.com/linkrobins/font-sizer)
+* [`maicol07/flarum-ext-sso`](https://github.com/maicol07/flarum-ext-sso)
+* [`michaelbelgium/flarum-discussion-views`](https://github.com/MichaelBelgium/flarum-discussion-views)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`ernestdefoe/cross-references`](https://github.com/ernestdefoe/cross-references)
+* [`flarum/mentions`](https://github.com/flarum/mentions)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
+* [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions)
+* [`forumaker/magicslider`](https://github.com/forumaker/magicslider)
+* [`linkrobins/html-widget`](https://github.com/linkrobins/html-widget)
+* [`linkrobins/markdown-widget`](https://github.com/linkrobins/markdown-widget)
+* [`linkrobins/shoutbox`](https://github.com/linkrobins/shoutbox)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado)
+* [`ramon/stickers`](https://github.com/ram0ng1/stickers)
+* [`walsgit/flarum-discussion-cards`](https://github.com/WalsGit/flarum-discussion-cards)
+
+
+Alle Änderungen: [2.0.4...2.0.5](https://github.com/flarum-lang/german/compare/2.0.4...2.0.5).
+
+
+2.0.4 (2026-05-19)
+------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`captchala/flarum`](https://github.com/Captcha-La/captchala-flarum)
+* [`datlechin/flarum-link-clicks`](https://github.com/datlechin/flarum-link-clicks)
+* [`datlechin/flarum-mermaid`](https://github.com/datlechin/flarum-mermaid)
+* [`datlechin/flarum-title-length`](https://github.com/datlechin/flarum-title-length)
+* [`ernestdefoe/cross-references`](https://github.com/ernestdefoe/cross-references)
+* [`ernestdefoe/social-groups`](https://github.com/ernestdefoe/social-groups)
+* [`gitzaai/cnsearch`](https://github.com/gitzaai/cnsearch)
+* [`irmmr/flarum-ext-rtl`](https://github.com/irmmr/flarum-ext-rtl)
+* [`linkrobins/blog`](https://github.com/linkrobins/blog)
+* [`linkrobins/clipboard`](https://github.com/linkrobins/clipboard)
+* [`linkrobins/countdown-widget`](https://github.com/linkrobins/countdown-widget)
+* [`linkrobins/html-widget`](https://github.com/linkrobins/html-widget)
+* [`linkrobins/markdown-widget`](https://github.com/linkrobins/markdown-widget)
+* [`linkrobins/op`](https://github.com/linkrobins/OP)
+* [`linkrobins/post-num`](https://github.com/linkrobins/post-num)
+* [`linkrobins/shoutbox`](https://github.com/linkrobins/shoutbox)
+* [`linkrobins/support`](https://github.com/linkrobins/support)
+* [`michaelbelgium/mybb-to-flarum`](https://github.com/MichaelBelgium/mybb_to_flarum)
+* [`michaelbelgium/flarum-profile-views`](https://github.com/MichaelBelgium/flarum-profile-views)
+* [`peopleinside/fla-powcaptcha`](https://github.com/PeopleInside/fla-powcaptcha)
+* [`ramon/auth-modals`](https://github.com/ram0ng1/auth-modals)
+* [`ramon/guest-cta`](https://github.com/ram0ng1/guest-cta)
+* [`treeslins/reply-to-see`](https://github.com/treeslins/reply-to-see)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`datlechin/flarum-posted-on`](https://github.com/datlechin/flarum-posted-on)
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+* [`flarum/mentions`](https://github.com/flarum/mentions)
+* [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification)
+* [`forumaker/magicbb`](https://github.com/forumaker/magicbb)
+* [`linkrobins/referral`](https://github.com/linkrobins/referral)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado)
+* [`ramon/stickers`](https://github.com/ram0ng1/stickers)
+* [`resofire/digest-mail`](https://github.com/ResofireV2/digest-mail)
+* [`tryhackx/flarum-homepage-blocks`](https://github.com/TryHackX/flarum-homepage-blocks)
+* [`walsgit/flarum-discussion-cards`](https://github.com/WalsGit/flarum-discussion-cards)
+* [`walsgit/recycle-bin`](https://github.com/WalsGit/recycle-bin)
+* [`flarum/flags`](https://github.com/flarum/flags)
+
+
+Alle Änderungen: [2.0.3...2.0.4](https://github.com/flarum-lang/german/compare/2.0.3...2.0.4).
+
+
+2.0.3 (2026-05-07)
+------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`anto0102/mailguard`](https://github.com/anto0102/MailGuard)
+* [`ekumanov/flarum-ext-markdown-tables`](https://github.com/ekumanov/flarum-ext-markdown-tables)
+* [`linkrobins/referral`](https://github.com/linkrobins/referral)
+* [`ramon/verified`](https://github.com/ram0ng1/verified)
+* [`rob006/flarum-ext-last-post-avatar`](https://github.com/rob006-software/flarum-ext-last-post-avatar)
+* [`walsgit/flarum-discussion-cards`](https://github.com/WalsGit/flarum-discussion-cards)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`ekumanov/flarum-ext-forum-widgets`](https://github.com/ekumanov/flarum-ext-forum-stats-widget)
+* [`forumaker/profile-cover`](https://github.com/forumaker/Profile-Cover)
+* [`pianotell/flarum-ext-flamoji`](https://github.com/PrimateCoder/flarum-flamoji)
+* [`resofire/digest-mail`](https://github.com/ResofireV2/digest-mail)
+* [`tryhackx/flarum-magnet-link`](https://github.com/TryHackX/flarum-magnet-link)
+
+
+Alle Änderungen: [2.0.2...2.0.3](https://github.com/flarum-lang/german/compare/2.0.2...2.0.3).
+
+
+2.0.2 (2026-04-29)
+------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`ekumanov/flarum-ext-post-search`](https://github.com/ekumanov/flarum-ext-post-search)
+* [`fof/mailing`](https://github.com/FriendsOfFlarum/mailing)
+* [`fof/photoswipe`](https://github.com/FriendsOfFlarum/photoswipe)
+* [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha)
+* [`forumaker/profile-cover`](https://github.com/forumaker/Profile-Cover)
+* [`forumaker/yandex-smartcaptcha`](https://github.com/forumaker/Yandex-SmartCaptcha)
+* [`ianm/oauth-reddit`](https://github.com/imorland/flarum-ext-oauth-reddit)
+* [`ianm/syndication`](https://github.com/imorland/syndication)
+* [`michaelbelgium/flarum-ai-autoreply`](https://github.com/MichaelBelgium/flarum-ai-autoreply)
+* [`pianotell/flarum-ext-flamoji`](https://github.com/PrimateCoder/flarum-flamoji)
+* [`tryhackx/flarum-homepage-blocks`](https://github.com/TryHackX/flarum-homepage-blocks)
+* [`tryhackx/flarum-magnet-link`](https://github.com/TryHackX/flarum-magnet-link)
+* [`tryhackx/flarum-thumb-sliders`](https://github.com/TryHackX/flarum-thumb-sliders)
+* [`tryhackx/flarum-topic-rating`](https://github.com/TryHackX/flarum-topic-rating)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`dashzeveg/flarum-ads-manager`](https://github.com/dashzeveg/flarum-ads-manager)
+* [`ekumanov/flarum-ext-forum-widgets`](https://github.com/ekumanov/flarum-ext-forum-stats-widget)
+* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer)
+* [`fof/links`](https://github.com/FriendsOfFlarum/links)
+* [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
+* [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping)
+* [`forumaker/magicbb`](https://github.com/forumaker/magicbb)
+* [`forumaker/magicread`](https://github.com/forumaker/magicread)
+* [`huseyinfiliz/rewind`](https://github.com/huseyinfiliz/rewind)
+* [`ralkage/flarum-ext-ad-management`](https://github.com/Ralkage/flarum-ext-ad-management)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado)
+* [`resofire/digest-mail`](https://github.com/ResofireV2/digest-mail)
+
+
+Alle Änderungen: [2.0.1...2.0.2](https://github.com/flarum-lang/german/compare/2.0.1...2.0.2).
+
+
+2.0.1 (2026-04-20)
+------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`ekumanov/flarum-ext-forum-widgets`](https://github.com/ekumanov/flarum-ext-forum-stats-widget)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
+
+
+Alle Änderungen: [2.0.0...2.0.1](https://github.com/flarum-lang/german/compare/2.0.0...2.0.1).
+
+
+2.0.0 (2026-04-18)
+------------------
+
+**Allgemeine Änderungen**:
+
+* Veraltete Flarum-Core Übersetzungen entfernt (Version `2.0` oder höher wird unterstützt).
+* Veraltete Validation Übersetzungen entfernt (Version `2.0` oder höher wird unterstützt).
+
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`dashzeveg/flarum-ads-manager`](https://github.com/dashzeveg/flarum-ads-manager)
+* [`dashzeveg/flarum-custom-head`](https://github.com/dashzeveg/flarum-custom-head)
+* [`datlechin/flarum-bbcode-hide-content`](https://github.com/datlechin/flarum-bbcode-hide-content)
+* [`datlechin/flarum-more-discussions`](https://github.com/datlechin/flarum-more-discussions)
+* [`ekumanov/flarum-ext-forum-widgets`](https://github.com/ekumanov/flarum-ext-forum-stats-widget)
+* [`ekumanov/flarum-ext-inline-audio`](https://github.com/ekumanov/flarum-ext-inline-audio)
+* [`ekumanov/flarum-ext-new-posts-notice`](https://github.com/ekumanov/flarum-ext-new-posts-notice)
+* `flarum-com-database-queue`
+* [`flarum/messages`](https://github.com/flarum/messages)
+* [`flarum/realtime`](https://github.com/flarum/realtime)
+* [`fof/checklist`](https://github.com/FriendsOfFlarum/checklist)
+* [`fof/forum-stats-widget`](https://github.com/FriendsOfFlarum/forum-stats-widget)
+* [`fof/forum-widgets-core`](https://github.com/FriendsOfFlarum/forum-widgets-core)
+* [`fof/move-posts`](https://github.com/FriendsOfFlarum/move-posts)
+* [`fof/news-widget`](https://github.com/FriendsOfFlarum/news-widget)
+* [`fof/online-users-widget`](https://github.com/FriendsOfFlarum/online-users-widget)
+* [`fof/top-posters-widget`](https://github.com/FriendsOfFlarum/top-posters-widget)
+* [`fof/usercard-stats`](https://github.com/FriendsOfFlarum/usercard-stats)
+* [`forumaker/magicbb`](https://github.com/forumaker/magicbb)
+* [`forumaker/magicdice`](https://github.com/forumaker/magicdice)
+* [`forumaker/magicread`](https://github.com/forumaker/magicread)
+* [`forumaker/magicslider`](https://github.com/forumaker/magicslider)
+* [`forumaker/yandex-oauth`](https://github.com/forumaker/Yandex-Oauth)
+* [`huoxin/relative-url`](https://github.com/huoxin233/flarum-ext-relative-url)
+* [`huseyinfiliz/awards`](https://github.com/huseyinfiliz/awards)
+* [`huseyinfiliz/flarum-diff`](https://github.com/huseyinfiliz/flarum-diff)
+* [`huseyinfiliz/leaderboard`](https://github.com/huseyinfiliz/leaderboard)
+* [`huseyinfiliz/rewind`](https://github.com/huseyinfiliz/rewind)
+* [`huseyinfiliz/stickiest`](https://github.com/huseyinfiliz/stickiest)
+* [`import-ai/flarum-webhook-notification`](https://github.com/import-ai/flarum-webhook-notification)
+* [`quasimo/flarum-ext-carousel-grids`](https://github.com/Quasimo/flarum-ext-carousel-grids)
+* [`quasimo/flarum-ext-llms-txt`](https://github.com/Quasimo/flarum-ext-llms-txt)
+* [`quasimo/flarum-ext-tag-sidebar`](https://github.com/Quasimo/flarum-ext-tag-sidebar)
+* [`ralkage/flarum-ext-account-lockout`](https://github.com/Ralkage/flarum-ext-account-lockout)
+* [`ralkage/flarum-ext-ad-management`](https://github.com/Ralkage/flarum-ext-ad-management)
+* [`ralkage/flarum-ext-cap-captcha`](https://github.com/Ralkage/flarum-ext-cap-captcha)
+* [`ralkage/flarum-ext-civility-filter`](https://github.com/Ralkage/flarum-ext-civility-filter)
+* [`ralkage/flarum-ext-linked-accounts`](https://github.com/Ralkage/flarum-ext-linked-accounts)
+* [`ralkage/flarum-ext-profile-messages`](https://github.com/Ralkage/flarum-ext-profile-messages)
+* [`ralkage/flarum-ext-word-censor`](https://github.com/Ralkage/flarum-ext-word-censor)
+* [`ralkage/flarum-ext-word-counter`](https://github.com/Ralkage/flarum-ext-word-counter)
+* [`ramon/avocado`](https://github.com/ram0ng1/avocado)
+* [`ramon/colored`](https://github.com/ram0ng1/colored)
+* [`ramon/stickers`](https://github.com/ram0ng1/stickers)
+* [`resofire/blog-cards`](https://github.com/ResofireV2/blog-cards)
+* [`resofire/digest-mail`](https://github.com/ResofireV2/digest-mail)
+* [`resofire/discussion-participants`](https://github.com/ResofireV2/discussion-participants)
+* [`resofire/menu-control`](https://github.com/ResofireV2/menu-control)
+* [`resofire/mobile-search`](https://github.com/ResofireV2/mobile-search)
+* [`tryhackx/flarum-advanced-pages`](https://github.com/TryHackX/flarum-advanced-pages)
+* [`vlssu/flarum-cravatar`](https://github.com/vlssu/flarum-cravatar)
+* [`walsgit/recycle-bin`](https://github.com/WalsGit/recycle-bin)
+* [`yippy/flarum-ext-auth-ldap`](https://github.com/Yippy/flarum-ext-auth-ldap)
+
+
+**Übersetzungen für Erweiterungen aktualisiert und/oder veraltete Übersetzungen entfernt**:
+
+* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache)
+* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab)
+* [`acpl/my-tags`](https://github.com/android-com-pl/my-tags)
+* [`datitisev/flarum-backup`](https://flarum.org/extension/datitisev/flarum-backup)
+* [`datlechin/flarum-birthdays`](https://github.com/datlechin/flarum-birthdays)
+* [`datlechin/flarum-copy-links`](https://github.com/datlechin/flarum-copy-links)
+* [`datlechin/flarum-discussion-overview`](https://github.com/datlechin/flarum-discussion-overview)
+* [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview)
+* [`datlechin/flarum-posted-on`](https://github.com/datlechin/flarum-posted-on)
+* [`datlechin/flarum-scroll-buttons`](https://github.com/datlechin/flarum-scroll-buttons)
+* [`datlechin/flarum-signup-button`](https://github.com/datlechin/flarum-signup-button)
+* [`datlechin/flarum-silent-edit`](https://github.com/datlechin/flarum-silent-edit)
+* [`datlechin/flarum-tag-passwords`](https://github.com/datlechin/flarum-tag-passwords)
+* [`flarum/akismet`](https://github.com/flarum/akismet)
+* [`flarum/approval`](https://github.com/flarum/approval)
+* [`flarum/bbcode`](https://github.com/flarum/bbcode)
+* [`flarum/emoji`](https://github.com/flarum/emoji)
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+* [`flarum/flags`](https://github.com/flarum/flags)
+* [`flarum/gdpr`](https://github.com/flarum/gdpr)
+* [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/lock`](https://github.com/flarum/lock)
+* [`flarum/markdown`](https://github.com/flarum/markdown)
+* [`flarum/mentions`](https://github.com/flarum/mentions)
+* [`flarum/nicknames`](https://github.com/flarum/nicknames)
+* [`flarum/pusher`](https://github.com/flarum/pusher)
+* [`flarum/statistics`](https://github.com/flarum/statistics)
+* [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
+* [`flarum/suspend`](https://github.com/flarum/suspend)
+* [`flarum/tags`](https://github.com/flarum/tags)
+* [`flectar/flarum-turnstile`](https://github.com/flectar/flarum-ext-turnstile)
+* [`fof/analytics`](https://github.com/FriendsOfFlarum/analytics)
+* [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam)
+* [`fof/badges`](https://github.com/FriendsOfFlarum/badges)
+* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer)
+* [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu)
+* [`fof/categories`](https://github.com/FriendsOfFlarum/categories)
+* [`fof/clockwork`](https://github.com/FriendsOfFlarum/clockwork)
+* [`fof/default-group`](https://github.com/FriendsOfFlarum/default-group)
+* [`fof/default-user-preferences`](https://github.com/FriendsOfFlarum/default-user-preferences)
+* [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates)
+* [`fof/discussion-thumbnail`](https://github.com/FriendsOfFlarum/discussion-thumbnail)
+* [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
+* [`fof/disposable-emails`](https://github.com/FriendsOfFlarum/disposable-emails)
+* [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts)
+* [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags)
+* [`fof/formatting`](https://github.com/FriendsOfFlarum/formatting)
+* [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget)
+* [`fof/frontpage`](https://github.com/FriendsOfFlarum/frontpage)
+* [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification)
+* [`fof/geoip`](https://github.com/FriendsOfFlarum/geoip)
+* [`fof/github-sponsors`](https://github.com/FriendsOfFlarum/github-sponsors)
+* [`fof/horizon`](https://github.com/FriendsOfFlarum/horizon)
+* [`fof/html-errors`](https://github.com/FriendsOfFlarum/html-errors)
+* [`fof/ignore-users`](https://github.com/FriendsOfFlarum/ignore-users)
+* [`fof/impersonate`](https://github.com/FriendsOfFlarum/impersonate)
+* [`fof/linguist`](https://github.com/FriendsOfFlarum/linguist)
+* [`fof/links`](https://github.com/FriendsOfFlarum/links)
+* [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
+* [`fof/merge-discussions`](https://github.com/FriendsOfFlarum/merge-discussions)
+* [`fof/moderator-notes`](https://github.com/FriendsOfFlarum/moderator-notes)
+* [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
+* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth)
+* [`fof/open-collective`](https://github.com/FriendsOfFlarum/open-collective)
+* [`fof/pages`](https://github.com/FriendsOfFlarum/pages)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
+* [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping)
+* [`fof/profile-image-crop`](https://github.com/FriendsOfFlarum/profile-image-crop)
+* [`fof/pwned-passwords`](https://github.com/FriendsOfFlarum/pwned-passwords)
+* [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions)
+* [`fof/rich-text`](https://github.com/FriendsOfFlarum/rich-text)
+* [`fof/sentry`](https://github.com/FriendsOfFlarum/sentry)
+* [`fof/share-social`](https://github.com/FriendsOfFlarum/share-social)
+* [`fof/sitemap`](https://github.com/FriendsOfFlarum/sitemap)
+* [`fof/socialprofile`](https://github.com/FriendsOfFlarum/socialprofile)
+* [`fof/split`](https://github.com/FriendsOfFlarum/split)
+* [`fof/subscribed`](https://github.com/FriendsOfFlarum/subscribed)
+* [`fof/synopsis`](https://github.com/FriendsOfFlarum/synopsis)
+* [`fof/terms`](https://github.com/FriendsOfFlarum/terms)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
+* [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio)
+* [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory)
+* [`fof/username-request`](https://github.com/FriendsOfFlarum/username-request)
+* [`fof/webhooks`](https://github.com/FriendsOfFlarum/webhooks)
+* [`huseyinfiliz/modern-footer`](https://github.com/huseyinfiliz/modern-footer)
+* [`ianm/boring-avatars`](https://github.com/imorland/flarum-ext-boring-avatars)
+* [`ianm/follow-users`](https://github.com/imorland/follow-users)
+* [`ianm/html-head`](https://github.com/imorland/html-head)
+* [`ianm/log-viewer`](https://github.com/imorland/flarum-ext-log-viewer)
+* [`ianm/twofactor`](https://github.com/imorland/flarum-ext-twofactor)
+* [`justoverclock/related-discussions`](https://flarum.org/extension/justoverclock/related-discussions)
+* [`justoverclock/flarum-ext-welcomebox`](https://github.com/justoverclockl/flarum-ext-welcomebox)
+* [`migratetoflarum/fake-data`](https://github.com/migratetoflarum/fake-data)
+* [`ralkage/flarum-hcaptcha`](https://github.com/Ralkage/flarum-hcaptcha)
+* [`sycho/flarum-advanced-extension-categories`](https://github.com/SychO9/flarum-advanced-extension-categories)
+* [`sycho/flarum-github-milestone`](https://github.com/SychO9/flarum-github-milestone)
+* [`sycho/flarum-move-posts`](https://github.com/SychO9/flarum-move-posts)
+* [`sycho/flarum-private-facade`](https://github.com/SychO9/flarum-private-facade)
+* [`sycho/flarum-profile-cover`](https://github.com/SychO9/flarum-profile-cover)
+* [`yippy/flarum-tag-with-themes`](https://github.com/Yippy/flarum-tag-with-themes)
+
+
+**Unterstützung für veraltete Erweiterungen entfernt**:
+
+* [`afrux/asirem`](https://github.com/afrux/asirem)
+* [`afrux/forum-stats-widget`](https://github.com/afrux/forum-stats-widget)
+* [`afrux/forum-widgets-core`](https://github.com/afrux/forum-widgets-core)
+* [`afrux/news-widget`](https://github.com/afrux/news-widget)
+* [`afrux/online-users-widget`](https://github.com/afrux/online-users-widget)
+* [`afrux/top-posters-widget`](https://github.com/afrux/top-posters-widget)
+* [`akr/chevereto`](https://github.com/AKR-Developers/flarum-chevereto)
+* [`annonny/flarum-dice`](https://github.com/mizhiyugan529/flarum-dice)
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
+* [`antoinefr/flarum-ext-online`](https://github.com/AntoineFr/flarum-ext-online)
+* [`askvortsov/flarum-article-series`](https://github.com/askvortsov1/flarum-article-series)
+* [`askvortsov/flarum-auto-moderator`](https://github.com/askvortsov1/flarum-automod)
+* [`askvortsov/flarum-categories`](https://github.com/askvortsov1/flarum-categories)
+* [`askvortsov/flarum-checklist`](https://github.com/askvortsov1/flarum-checklist)
+* [`askvortsov/flarum-discussion-templates`](https://github.com/askvortsov1/flarum-discussion-templates)
+* [`askvortsov/flarum-help-tags`](https://github.com/askvortsov1/flarum-help-tags)
+* [`askvortsov/flarum-markdown-tables`](https://github.com/askvortsov1/flarum-markdown-tables)
+* [`askvortsov/flarum-moderator-warnings`](https://github.com/askvortsov1/flarum-moderator-warnings)
+* [`askvortsov/flarum-pwa`](https://github.com/askvortsov1/flarum-pwa)
+* [`askvortsov/flarum-rich-text`](https://github.com/askvortsov1/flarum-rich-text)
+* [`askvortsov/flarum-saml`](https://github.com/askvortsov1/flarum-saml)
+* [`blazite/flarum-turnstile`](https://github.com/flectar/flarum-ext-turnstile)
+* [`blessing/flarum-oauth-client`](https://github.com/bs-community/flarum-oauth-client)
+* [`blomstra/conversations`](https://github.com/blomstra/flarum-ext-conversations)
+* [`blomstra/flag-duplicates`](https://github.com/blomstra/flarum-ext-flag-duplicate)
+* [`blomstra/fontawesome`](https://github.com/blomstra/flarum-ext-fontawesome)
+* [`blomstra/gdpr`](https://github.com/flarum/gdpr)
+* [`blomstra/horizon`](https://github.com/blomstra/flarum-ext-horizon)
+* [`blomstra/mark-unread`](https://github.com/blomstra/flarum-ext-mark-unread)
+* [`blomstra/oauth-apple`](https://github.com/blomstra/flarum-ext-oauth-apple)
+* [`blomstra/oauth-slack`](https://github.com/blomstra/flarum-ext-oauth-slack)
+* `blomstra-payments`
+* `blomstra-readme`
+* `blomstra-realtime`
+* [`blomstra/search`](https://github.com/blomstra/flarum-ext-search)
+* [`blomstra/secondary-tags-toggler`](https://github.com/blomstra/flarum-ext-secondary-tags-toggler)
+* [`blomstra/sort-order-toggle`](https://github.com/blomstra/flarum-ext-sort-order-toggle)
+* [`blomstra/user-filter`](https://github.com/blomstra/flarum-ext-user-filter)
+* [`blomstra/usercard-stats`](https://github.com/blomstra/flarum-ext-usercard-stats)
+* [`blomstra/welcome-login`](https://github.com/blomstra/flarum-ext-welcome-login)
+* [`cadiducho/bbcode`](https://github.com/EdorasMinecraft/BBcode)
+* [`clarkwinkelmann/flarum-ext-anonymous-posting`](https://github.com/clarkwinkelmann/flarum-ext-anonymous-posting)
+* [`clarkwinkelmann/flarum-ext-author-change`](https://github.com/clarkwinkelmann/flarum-ext-author-change)
+* [`clarkwinkelmann/flarum-ext-carving-contest`](https://github.com/clarkwinkelmann/flarum-ext-carving-contest)
+* [`clarkwinkelmann/catch-the-fish`](https://github.com/clarkwinkelmann/catch-the-fish)
+* [`clarkwinkelmann/flarum-ext-clippy`](https://github.com/clarkwinkelmann/flarum-ext-clippy)
+* [`clarkwinkelmann/flarum-ext-collapsible-posts`](https://github.com/clarkwinkelmann/flarum-ext-collapsible-posts)
+* [`clarkwinkelmann/flarum-ext-colorful-borders`](https://github.com/clarkwinkelmann/flarum-ext-colorful-borders)
+* [`clarkwinkelmann/flarum-ext-composer-page`](https://github.com/clarkwinkelmann/flarum-ext-composer-page)
+* [`clarkwinkelmann/flarum-ext-create-user-modal`](https://github.com/clarkwinkelmann/flarum-ext-create-user-modal)
+* [`clarkwinkelmann/flarum-ext-default-image-alt`](https://github.com/clarkwinkelmann/flarum-ext-default-image-alt)
+* [`clarkwinkelmann/flarum-ext-discussion-bookmarks`](https://github.com/clarkwinkelmann/flarum-ext-discussion-bookmarks)
+* [`clarkwinkelmann/flarum-ext-discussion-lists`](https://github.com/clarkwinkelmann/flarum-ext-discussion-lists)
+* [`clarkwinkelmann/flarum-ext-discussion-open-position`](https://github.com/clarkwinkelmann/flarum-ext-discussion-open-position)
+* [`clarkwinkelmann/flarum-ext-editable-user-attributes`](https://github.com/clarkwinkelmann/flarum-ext-editable-user-attributes)
+* [`clarkwinkelmann/flarum-ext-email-as-display-name`](https://github.com/clarkwinkelmann/flarum-ext-email-as-display-name)
+* [`clarkwinkelmann/flarum-ext-email-whitelist`](https://github.com/clarkwinkelmann/flarum-ext-email-whitelist)
+* [`clarkwinkelmann/flarum-ext-emojionearea`](https://github.com/clarkwinkelmann/flarum-ext-emojionearea)
+* [`clarkwinkelmann/flarum-ext-external-email-validation`](https://github.com/clarkwinkelmann/flarum-ext-external-email-validation)
+* [`clarkwinkelmann/flarum-ext-featured-discussions`](https://github.com/clarkwinkelmann/flarum-ext-featured-discussions)
+* [`clarkwinkelmann/flarum-ext-first-post-approval`](https://github.com/clarkwinkelmann/flarum-ext-first-post-approval)
+* [`clarkwinkelmann/flarum-ext-follow-tags-prompt`](https://github.com/clarkwinkelmann/flarum-ext-follow-tags-prompt)
+* [`clarkwinkelmann/flarum-ext-formatted-banner`](https://github.com/clarkwinkelmann/flarum-ext-formatted-banner)
+* [`clarkwinkelmann/flarum-ext-group-invitation`](https://github.com/clarkwinkelmann/flarum-ext-group-invitation)
+* [`clarkwinkelmann/flarum-ext-group-list`](https://github.com/clarkwinkelmann/flarum-ext-group-list)
+* [`clarkwinkelmann/flarum-ext-ipsum-autocomplete`](https://github.com/clarkwinkelmann/flarum-ext-ipsum-autocomplete)
+* [`clarkwinkelmann/flarum-ext-jwt-cookie-login`](https://github.com/clarkwinkelmann/flarum-ext-jwt-cookie-login)
+* [`clarkwinkelmann/flarum-ext-likes-received`](https://github.com/clarkwinkelmann/flarum-ext-likes-received)
+* [`clarkwinkelmann/flarum-ext-mailing`](https://github.com/clarkwinkelmann/flarum-ext-mailing)
+* [`clarkwinkelmann/flarum-ext-mass-actions`](https://github.com/clarkwinkelmann/flarum-ext-mass-actions)
+* [`clarkwinkelmann/flarum-ext-meilisearch-dashboard`](https://github.com/clarkwinkelmann/flarum-ext-meilisearch-dashboard)
+* [`clarkwinkelmann/flarum-ext-money-rewards`](https://github.com/clarkwinkelmann/flarum-ext-money-rewards)
+* [`clarkwinkelmann/flarum-ext-money-to-all`](https://github.com/clarkwinkelmann/flarum-ext-money-to-all)
+* [`clarkwinkelmann/flarum-ext-passwordless`](https://github.com/clarkwinkelmann/flarum-ext-passwordless)
+* [`clarkwinkelmann/flarum-ext-popular-discussion-badge`](https://github.com/clarkwinkelmann/flarum-ext-popular-discussion-badge)
+* [`clarkwinkelmann/flarum-ext-post-bookmarks`](https://github.com/clarkwinkelmann/flarum-ext-post-bookmarks)
+* [`clarkwinkelmann/flarum-ext-post-permissions`](https://github.com/clarkwinkelmann/flarum-ext-post-permissions)
+* [`clarkwinkelmann/flarum-ext-post-stream-search`](https://github.com/clarkwinkelmann/flarum-ext-post-stream-search)
+* [`clarkwinkelmann/flarum-ext-predefined-avatars`](https://github.com/clarkwinkelmann/flarum-ext-predefined-avatars)
+* [`clarkwinkelmann/flarum-ext-prominent-post-numbers`](https://github.com/clarkwinkelmann/flarum-ext-prominent-post-numbers)
+* [`clarkwinkelmann/flarum-ext-readonly-profile`](https://github.com/clarkwinkelmann/flarum-ext-readonly-profile)
+* [`clarkwinkelmann/flarum-ext-reset-preferences`](https://github.com/clarkwinkelmann/flarum-ext-reset-preferences)
+* [`clarkwinkelmann/flarum-ext-roll-die`](https://github.com/clarkwinkelmann/flarum-ext-roll-die)
+* [`clarkwinkelmann/flarum-ext-scout`](https://github.com/clarkwinkelmann/flarum-ext-scout)
+* [`clarkwinkelmann/flarum-ext-scratchpad`](https://github.com/clarkwinkelmann/flarum-ext-scratchpad)
+* [`clarkwinkelmann/flarum-ext-see-past-first-post`](https://github.com/clarkwinkelmann/flarum-ext-see-past-first-post)
+* [`clarkwinkelmann/flarum-ext-shadow-ban`](https://github.com/clarkwinkelmann/flarum-ext-shadow-ban)
+* [`clarkwinkelmann/flarum-ext-status`](https://github.com/clarkwinkelmann/flarum-ext-status)
+* [`clarkwinkelmann/flarum-ext-translation-inspector`](https://github.com/clarkwinkelmann/flarum-ext-translation-inspector)
+* [`clarkwinkelmann/flarum-ext-typewriter`](https://github.com/clarkwinkelmann/flarum-ext-typewriter)
+* [`clarkwinkelmann/flarum-ext-username-blacklist`](https://github.com/clarkwinkelmann/flarum-ext-username-blacklist)
+* [`clarkwinkelmann/flarum-ext-who-read`](https://github.com/clarkwinkelmann/flarum-ext-who-read)
+* [`club-1/flarum-ext-content-permissions`](https://github.com/club-1/flarum-ext-content-permissions)
+* [`club-1/flarum-ext-cross-references`](https://github.com/club-1/flarum-ext-cross-references)
+* [`convo-extensions/flarum-ext-guest-posting`](https://github.com/convo-extensions/flarum-ext-guest-posting)
+* [`convo-extensions/flarum-ext-quick-reply`](https://github.com/convo-extensions/flarum-ext-quick-reply)
+* [`datitisev/flarum-discussion-agree-message`](https://github.com/dsevillamartin/flarum-discussion-agree-message)
+* [`datitisev/flarum-post-galleries`](https://github.com/dsevillamartin/flarum-post-galleries)
+* [`datlechin/flarum-add-like-controls`](https://github.com/datlechin/flarum-add-like-controls)
+* [`datlechin/flarum-ai`](https://github.com/datlechin/flarum-ai)
+* [`datlechin/flarum-birthdays-widget`](https://github.com/datlechin/flarum-birthdays-widget)
+* [`datlechin/flarum-landing-page`](https://github.com/datlechin/flarum-landing-page)
+* [`datlechin/flarum-offline-indicator`](https://github.com/datlechin/flarum-offline-indicator)
+* [`datlechin/flarum-pronouns`](https://github.com/datlechin/flarum-pronouns)
+* [`datlechin/flarum-remove-sidenav`](https://github.com/datlechin/flarum-remove-sidenav)
+* [`datlechin/flarum-simple-tour-guide`](https://github.com/datlechin/flarum-simple-tour-guide)
+* [`datlechin/flarum-title-length`](https://github.com/datlechin/flarum-title-length)
+* [`datlechin/flarum-usercard-uid`](https://github.com/datlechin/flarum-usercard-uid)
+* [`datlechin/flarum-who-replied`](https://github.com/datlechin/flarum-who-replied)
+* [`davwheat/flarum-ext-ads`](https://github.com/davwheat/flarum-ext-ads)
+* [`davwheat/custom-sidenav-links`](https://github.com/davwheat/flarum-ext-custom-sidenav-links)
+* [`davwheat/flarum-ext-share`](https://github.com/davwheat/flarum-ext-share)
+* [`dem13n/discussion-cards`](https://github.com/Dem13n/discussion-cards)
+* [`dem13n/topic-starter-label`](https://github.com/Dem13n/topic-starter-label)
+* [`extiverse/mercury`](https://github.com/extiverse/mercury)
+* [`ffans/clipboardjs`](https://github.com/FFans/clipboardjs)
+* [`flamarkt/backoffice`](https://github.com/flamarkt/backoffice)
+* [`flamarkt/matomo`](https://github.com/flamarkt/matomo)
+* [`flarumite/simple-discussion-views`](https://github.com/flarumite/simple-discussion-views)
+* [`flarumite/simple-spoilers`](https://github.com/flarumite/simple-spoilers)
+* [`fof/amazon-affiliation`](https://github.com/FriendsOfFlarum/amazon-affiliation)
+* [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips)
+* [`fof/cookie-consent`](https://github.com/FriendsOfFlarum/cookie-consent)
+* [`fof/custom-footer`](https://github.com/FriendsOfFlarum/custom-footer)
+* [`fof/discussion-language`](https://github.com/FriendsOfFlarum/discussion-language)
+* [`fof/doorman`](https://github.com/FriendsOfFlarum/doorman)
+* [`fof/filter`](https://github.com/FriendsOfFlarum/filter)
+* [`fof/nightmode`](https://github.com/FriendsOfFlarum/nightmode)
+* [`fof/passport`](https://github.com/FriendsOfFlarum/passport)
+* [`fof/pretty-mail`](https://github.com/FriendsOfFlarum/pretty-mail)
+* [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha)
+* [`fof/secure-https`](https://github.com/FriendsOfFlarum/secure-https)
+* [`fof/spamblock`](https://github.com/FriendsOfFlarum/spamblock)
+* [`fof/stopforumspam`](https://github.com/FriendsOfFlarum/stopforumspam)
+* [`foskym/flarum-better-user-directory`](https://github.com/FoskyM/flarum-better-user-directory)
+* [`ganuonglachanh/sonic`](https://github.com/ganuonglachanh/flarum-sonic)
+* [`glowingblue/author-filter`](https://github.com/glowingblue/flarum-ext-author-filter)
+* `glowingblue-localizd`
+* [`glowingblue/password-strength`](https://github.com/glowingblue/flarum-ext-password-strength)
+* [`glowingblue/redis-setup`](https://github.com/glowingblue/flarum-ext-redis-setup)
+* [`gtdxyz/flarum-ext-badges`](https://github.com/daocatt/flarum-ext-badges)
+* [`hehongyuanlove/flarum-auth-qq`](https://github.com/Hehongyuanlove/flarum-auth-qq)
+* [`huoxin/auto-follow-discussion`](https://github.com/huoxin233/flarum-ext-auto-follow-discussion)
+* [`huseyinfiliz/flagify`](https://github.com/huseyinfiliz/flagify)
+* [`huseyinfiliz/notificationhub`](https://github.com/huseyinfiliz/notificationhub)
+* [`huseyinfiliz/private-profile`](https://github.com/huseyinfiliz/private-profile)
+* [`huseyinfiliz/sticky-title`](https://github.com/huseyinfiliz/sticky-title)
+* [`ianm/gravatar`](https://github.com/imorland/gravatar)
+* [`ianm/level-ranks`](https://github.com/imorland/level-ranks)
+* [`ianm/no-meta-title`](https://github.com/imorland/no-meta-title)
+* [`ianm/oauth-amazon`](https://github.com/imorland/flarum-ext-oauth-amazon)
+* [`ianm/online-guests`](https://github.com/imorland/flarum-ext-online-guests-widget)
+* [`ianm/syndication`](https://github.com/imorland/syndication)
+* [`ianm/synopsis`](https://github.com/imorland/synopsis)
+* `ianm-translate`
+* [`irmmr/flarum-ext-rtl`](https://github.com/irmmr/flarum-ext-rtl)
+* [`jslirola/flarum-ext-login2seeplus`](https://github.com/jslirola/flarum-ext-login2seeplus)
+* [`justoverclock/be-active-user-indicator`](https://github.com/justoverclockl/active-user-indicator)
+* [`justoverclock/best-answer-badge`](https://github.com/justoverclockl/best-answer-badge)
+* [`justoverclock/broken-links-checker`](https://github.com/justoverclockl/broken-links-checker)
+* [`justoverclock/check-duplicate-discussions`](https://github.com/justoverclockl/check-duplicate-discussions)
+* [`justoverclock/composer-autocomplete`](https://github.com/justoverclockl/composer-autocomplete)
+* [`justoverclock/flarum-ext-contactme`](https://github.com/justoverclockl/flarum-ext-contactme)
+* [`justoverclock/country-flags`](https://github.com/justoverclockl/country-flags)
+* [`justoverclock/custom-header`](https://github.com/justoverclockl/custom-header)
+* [`justoverclock/custom-html-widget`](https://github.com/justoverclockl/custom-html-widget)
+* `justoverclock-discord-widget`
+* [`justoverclock/discussion-hero-showtags`](https://github.com/justoverclockl/discussion-hero-showtags)
+* [`justoverclock/discussion-info`](https://github.com/justoverclockl/discussions-info)
+* `justoverclock-discussion-tags`
+* [`justoverclock/edit-posts`](https://github.com/justoverclockl/edit-posts)
+* [`justoverclock/events-countdown`](https://github.com/justoverclockl/events-countdown)
+* `justoverclock-export-post-to-pdf`
+* [`justoverclock/feautured-discussions-widget`](https://github.com/justoverclockl/feautured-discussions-widget)
+* [`justoverclock/flarum-ext-feedback`](https://github.com/justoverclockl/flarum-ext-feedback)
+* [`justoverclock/first-visit-indexpage`](https://github.com/justoverclockl/first-visit-indexpage)
+* [`justoverclock/first-visit-popup`](https://github.com/justoverclockl/first-visit-popup)
+* [`justoverclock/flachat`](https://github.com/justoverclockl/flachat)
+* [`justoverclock/geo-weather`](https://github.com/justoverclockl/geo-weather)
+* [`justoverclock/flarum-ext-guestengagement`](https://github.com/justoverclockl/flarum-ext-guestengagement)
+* [`justoverclock/flarum-ext-hashtag`](https://github.com/justoverclockl/flarum-ext-hashtag)
+* [`justoverclock/hot-discussions-cards`](https://github.com/justoverclockl/hot-discussions-cards)
+* [`justoverclock/hot-discussions`](https://github.com/justoverclockl/hot-discussions)
+* [`justoverclock/imdb-api`](https://github.com/justoverclockl/imdb-api)
+* [`justoverclock/flarum-ext-keywords`](https://github.com/justoverclockl/flarum-ext-keywords)
+* [`justoverclock/last-post-useravatar`](https://github.com/justoverclockl/last-post-useravatar)
+* [`justoverclock/last-registered-users`](https://github.com/justoverclockl/last-registered-users)
+* [`justoverclock/last-tweet`](https://github.com/justoverclockl/last-tweet)
+* [`justoverclock/last-users-posts`](https://github.com/justoverclockl/last-users-posts)
+* [`justoverclock/flarum-ext-newsfeed`](https://github.com/justoverclockl/flarum-ext-newsfeed)
+* [`justoverclock/newsletter`](https://github.com/justoverclockl/newsletter)
+* [`justoverclock/og-meta-tag`](https://github.com/justoverclockl/og-meta-tag)
+* [`justoverclock/popular-tags`](https://github.com/justoverclockl/popular-tags)
+* [`justoverclock/flarum-ext-purify`](https://github.com/justoverclockl/flarum-ext-purify)
+* [`justoverclock/flarum-ext-pwgen`](https://github.com/justoverclockl/flarum-ext-pwgen)
+* [`justoverclock/random-post`](https://github.com/justoverclockl/random-post)
+* [`justoverclock/flarum-ext-realtimecode`](https://github.com/justoverclockl/flarum-ext-realtimecode)
+* `justoverclock-reputation-score`
+* [`justoverclock/flarum-ext-socialcards`](https://github.com/justoverclockl/flarum-ext-socialcards)
+* [`justoverclock/staff-members-widget`](https://github.com/justoverclockl/staff-member-widget)
+* `justoverclock-steam-api`
+* [`justoverclock/theaudiodb-api`](https://github.com/justoverclockl/theaudiodb-api)
+* [`justoverclock/thread-read-time`](https://github.com/justoverclockl/thread-read-time)
+* [`justoverclock/user-pc-specs`](https://github.com/justoverclockl/user-pc-specs)
+* [`justoverclock/user-statistics`](https://github.com/justoverclockl/user-statistics)
+* [`justoverclock/username-blacklist`](https://github.com/justoverclockl/username-blacklist)
+* [`justoverclock/users-map-location`](https://github.com/justoverclockl/users-map-location)
+* `justoverclock-website-live-screenshot`
+* [`justoverclock/youtube-video-feed`](https://github.com/justoverclockl/youtube-video-feed)
+* [`katosdev/signature`](https://github.com/katosdev/signature)
+* [`kilowhat/flarum-ext-audit-free`](https://github.com/kilowhat/flarum-ext-audit-free)
+* `kilowhat-audit-pro`
+* `kilowhat-formulaire`
+* [`litalino/flarum-country-flags`](https://github.com/Litalino/flarum-country-flags)
+* [`littlecxm/flarum-reply-to-see`](https://github.com/littlecxm/flarum-reply-to-see)
+* [`madeyedeer/avatar-tools`](https://github.com/MadEyeDeer/avatar-tools)
+* [`madeyedeer/flarum-pallet-theme`](https://github.com/MadEyeDeer/flarum-pallet-theme)
+* [`maicol07/flarum-ext-sso`](https://github.com/maicol07/flarum-ext-sso)
+* [`malago/flarum-achievements`](https://github.com/malago86/flarum-achievements)
+* [`malago/flarum-ads`](https://github.com/malago86/flarum-ads)
+* [`malago/flarum-ext-fancybox`](https://github.com/malago86/flarum-ext-fancybox)
+* [`marchccc/flarum-ext-mentions-group-users`](https://github.com/Marchccc/flarum-ext-mentions-group-users)
+* [`matteociaroni/flarum-public-suspensions`](https://github.com/matteociaroni/flarum-public-suspensions)
+* [`matteocontrini/flarum-imgur-upload`](https://github.com/matteocontrini/flarum-imgur-upload)
+* [`michaelbelgium/flarum-discussion-views`](https://github.com/MichaelBelgium/flarum-discussion-views)
+* [`michaelbelgium/mybb-to-flarum`](https://github.com/MichaelBelgium/mybb_to_flarum)
+* [`michaelbelgium/flarum-profile-views`](https://github.com/MichaelBelgium/flarum-profile-views)
+* [`migratetoflarum/canonical`](https://github.com/migratetoflarum/canonical)
+* [`miniflar/admin-notepad-widget`](https://github.com/miniflar/admin-notepad-widget)
+* [`miniflar/sidenav-download-button`](https://github.com/miniflar/sidenav-download-button)
+* [`miniflar/top-like-givers-widget`](https://github.com/miniflar/top-like-givers-widget)
+* [`nearata/flarum-ext-auth-minecraft`](https://github.com/Nearata/flarum-ext-auth-minecraft)
+* [`nearata/flarum-ext-copy-code-to-clipboard`](https://github.com/Nearata/flarum-ext-copy-code-to-clipboard)
+* [`nearata/flarum-ext-dsts`](https://github.com/Nearata/flarum-ext-dsts)
+* [`nearata/flarum-ext-embed-twitch`](https://github.com/Nearata/flarum-ext-embed-twitch)
+* [`nearata/flarum-ext-embed-video`](https://github.com/Nearata/flarum-ext-embed-video)
+* [`nearata/flarum-ext-maintenance-mode`](https://github.com/Nearata/flarum-ext-maintenance-mode)
+* [`nearata/flarum-ext-minecraft-avatars`](https://github.com/Nearata/flarum-ext-minecraft-avatars)
+* [`nearata/flarum-ext-related-discussions`](https://github.com/Nearata/flarum-ext-related-discussions)
+* [`nearata/flarum-ext-signup-confirm-password`](https://github.com/Nearata/flarum-ext-signup-confirm-password)
+* [`nearata/flarum-ext-tags-color-generator`](https://github.com/Nearata/flarum-ext-tags-color-generator)
+* [`neoncube/flarum-private-messages`](https://github.com/neoncube2/flarum-private-messages)
+* `nodeloc-ignore-hidden-tags`
+* [`nomiscz/flarum-ext-auth-steam`](https://github.com/NomisCZ/flarum-ext-auth-steam)
+* [`nomiscz/flarum-ext-auth-wechat`](https://github.com/NomisCZ/flarum-ext-auth-wechat)
+* [`nosun/reply-to-see`](https://github.com/nosun/flarum-ext-reply2see)
+* [`peruguitar/flarum-ext-user-portrait`](https://github.com/Anexsoft/peruguitar-flarum-ext-user-portrait)
+* [`ramesh-dada/flarum-gui-image-and-link`](https://github.com/ramesh-dada/Flarum-GUI-Image-and-Link)
+* [`ramesh-dada/realtime`](https://github.com/ramesh-dada/realtime)
+* [`sas_sam/flarum-regrole`](https://github.com/SasSam/flarum-regrole)
+* [`serakoi/flarumstaffbadge`](https://github.com/ThatKoffe/flarumstaffbadge)
+* [`serakoi/flarum-hideprofile`](https://github.com/Serakoi/flarum-hideprofile)
+* [`shebaoting/money`](https://github.com/shebaoting/money)
+* [`shebaoting/repost`](https://github.com/shebaoting/Repost)
+* [`spookygames/flarum-ext-auth-keycloak`](https://github.com/spookygames/flarum-ext-auth-keycloak)
+* [`swaggymacro/only-starter`](https://github.com/SwaggyMacro/OnlyStarter)
+* [`sycho/flarum-force-password-reset`](https://github.com/SychO9/flarum-force-password-reset)
+* `the-turk-diff`
+* `the-turk-flamoji`
+* `the-turk-nodp`
+* [`the-turk/flarum-pallet-theme`](https://github.com/the-turk/flarum-pallet-theme)
+* `the-turk-quiet-edits`
+* `the-turk-regrole`
+* [`the-turk/flarum-stickiest`](https://github.com/the-turk/flarum-stickiest)
+* [`therealsujitk/flarum-ext-gifs`](https://github.com/therealsujitk/flarum-ext-gifs)
+* [`tituspijean/flarum-ext-auth-ldap`](https://github.com/tituspijean/flarum-ext-auth-ldap)
+* [`tohsakarat/table-of-content`](https://github.com/tohsakrat/flarum-table-of-content)
+* [`tokenjenny/flarum-ext-web3`](https://github.com/tokenjenny/flarum-ext-web3)
+* [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog)
+* `v17development-support`
+* [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges)
+* [`webbinaro/flarum-affiliator`](https://github.com/eddiewebb/flarum-affiliator)
+* [`webbinaro/flarum-age-check`](https://github.com/eddiewebb/flarum-age-check)
+* [`webbinaro/flarum-calendar`](https://github.com/eddiewebb/flarum-calendar)
+* [`widayn/flarum-avatar-cropper`](https://github.com/WiDayn/flarum-avatar-cropper)
+* [`xypp/store-auto-checkin`](https://github.com/zxy19/flarum-store-auto-checkin)
+* `zerosonesfun-bbcode-button`
+* [`zerosonesfun/expired-posts`](https://github.com/zerosonesfun/expired-posts)
+* [`zhihe/primary-posts`](https://github.com/echolocked/zhihe-primary-posts)
+* [`ziiven/flarum-daily-check-in`](https://github.com/Ziiven/flarum-daily-check-in)
+* [`ziiven/money-transfer`](https://github.com/Ziiven/ziven-money-transfer)
+* [`ziiven/flarum-post-number`](https://github.com/Ziiven/flarum-post-number)
+* [`askvortsov/flarum-trust-levels`](https://github.com/askvortsov1/flarum-trust-levels)
+* [`blomstra/notification-deleter`](https://github.com/blomstra/flarum-ext-notification-deleter)
+* [`clarkwinkelmann/flarum-ext-bookmarks`](https://github.com/clarkwinkelmann/flarum-ext-bookmarks)
+* `flarumi-oauth-vkontakte`
+* [`itnt/flarum-uitab`](https://github.com/littlegolden/flarum-uitab)
+* `justoverclock-discussion-sentiment-analyzer`
+* [`justoverclock/image-gallery`](https://github.com/justoverclockl/image-gallery)
+* [`justoverclock/flarum-ext-readmore`](https://github.com/justoverclockl/flarum-ext-readmore)
+* `serakoi-flarumdiscordtheme`
+
+
+Alle Änderungen: [1.25.9...2.0.0](https://github.com/flarum-lang/german/compare/1.25.9...2.0.0).
+
+
+1.25.9 (2026-02-26)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`clarkwinkelmann/flarum-ext-scratchpad`](https://github.com/clarkwinkelmann/flarum-ext-scratchpad)
+* [`club-1/flarum-ext-content-permissions`](https://github.com/club-1/flarum-ext-content-permissions)
+* [`club-1/flarum-ext-cross-references`](https://github.com/club-1/flarum-ext-cross-references)
+* [`datlechin/flarum-ai`](https://github.com/datlechin/flarum-ai)
+* [`datlechin/flarum-birthdays-widget`](https://github.com/datlechin/flarum-birthdays-widget)
+* [`datlechin/flarum-who-replied`](https://github.com/datlechin/flarum-who-replied)
+* [`fof/badges`](https://github.com/FriendsOfFlarum/badges)
+* [`fof/categories`](https://github.com/FriendsOfFlarum/categories)
+* [`fof/rich-text`](https://github.com/FriendsOfFlarum/rich-text)
+* [`foskym/flarum-better-user-directory`](https://github.com/FoskyM/flarum-better-user-directory)
+* [`huseyinfiliz/notificationhub`](https://github.com/huseyinfiliz/notificationhub)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
+* [`askvortsov/flarum-pwa`](https://github.com/askvortsov1/flarum-pwa)
+* [`clarkwinkelmann/flarum-ext-popular-discussion-badge`](https://github.com/clarkwinkelmann/flarum-ext-popular-discussion-badge)
+* [`clarkwinkelmann/flarum-ext-status`](https://github.com/clarkwinkelmann/flarum-ext-status)
+* [`flarum/approval`](https://github.com/flarum/approval)
+* [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam)
+* [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips)
+* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer)
+* [`fof/doorman`](https://github.com/FriendsOfFlarum/doorman)
+* [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags)
+* [`fof/horizon`](https://github.com/FriendsOfFlarum/horizon)
+* [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
+* [`fof/share-social`](https://github.com/FriendsOfFlarum/share-social)
+* [`fof/sitemap`](https://github.com/FriendsOfFlarum/sitemap)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
+* [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory)
+* [`fof/webhooks`](https://github.com/FriendsOfFlarum/webhooks)
+* [`ianm/syndication`](https://github.com/imorland/syndication)
+* [`ianm/translate`](https://flarum.org/extension/ianm/translate)
+* [`justoverclock/custom-header`](https://github.com/justoverclockl/custom-header)
+* [`justoverclock/last-users-posts`](https://github.com/justoverclockl/last-users-posts)
+* [`justoverclock/newsletter`](https://github.com/justoverclockl/newsletter)
+* [`v17development/flarum-support`](https://flarum.org/extension/v17development/flarum-support)
+* [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges)
+
+
+Alle Änderungen: [1.25.8...1.25.9](https://github.com/flarum-lang/german/compare/1.25.8...1.25.9).
+
+
+1.25.8 (2026-02-20)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`clarkwinkelmann/flarum-ext-discussion-open-position`](https://github.com/clarkwinkelmann/flarum-ext-discussion-open-position)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`fof/sitemap`](https://github.com/FriendsOfFlarum/sitemap)
+* [`ianm/translate`](https://flarum.org/extension/ianm/translate)
+
+
+Alle Änderungen: [1.25.7...1.25.8](https://github.com/flarum-lang/german/compare/1.25.7...1.25.8).
+
+
+1.25.7 (2026-02-06)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`glowingblue/author-filter`](https://github.com/glowingblue/flarum-ext-author-filter)
+* [`huseyinfiliz/private-profile`](https://github.com/huseyinfiliz/private-profile)
+
+
+Alle Änderungen: [1.25.6...1.25.7](https://github.com/flarum-lang/german/compare/1.25.6...1.25.7).
+
+
+1.25.6 (2026-01-15)
+-------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`clarkwinkelmann/flarum-ext-discussion-lists`](https://github.com/clarkwinkelmann/flarum-ext-discussion-lists)
+* [`clarkwinkelmann/flarum-ext-money-rewards`](https://github.com/clarkwinkelmann/flarum-ext-money-rewards)
+* [`clarkwinkelmann/flarum-ext-who-read`](https://github.com/clarkwinkelmann/flarum-ext-who-read)
+* [`irmmr/flarum-ext-rtl`](https://github.com/irmmr/flarum-ext-rtl)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`davwheat/flarum-ext-ads`](https://github.com/davwheat/flarum-ext-ads)
+* [`flectar/flarum-turnstile`](https://github.com/flectar/flarum-ext-turnstile)
+* [`fof/sitemap`](https://github.com/FriendsOfFlarum/sitemap)
+* [`ianm/boring-avatars`](https://github.com/imorland/flarum-ext-boring-avatars)
+* [`ianm/follow-users`](https://github.com/imorland/follow-users)
+* [`ianm/log-viewer`](https://github.com/imorland/flarum-ext-log-viewer)
+
+
+Alle Änderungen: [1.25.5...1.25.6](https://github.com/flarum-lang/german/compare/1.25.5...1.25.6).
+
+
+1.25.5 (2026-01-09)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`ianm/syndication`](https://github.com/imorland/syndication)
+* [`kilowhat/flarum-ext-audit-pro`](https://flarum.org/extension/kilowhat/flarum-ext-audit-pro)
+* [`ziiven/flarum-daily-check-in`](https://github.com/Ziiven/flarum-daily-check-in)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`afrux/online-users-widget`](https://github.com/afrux/online-users-widget)
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
+* [`askvortsov/flarum-pwa`](https://github.com/askvortsov1/flarum-pwa)
+* [`blomstra/fontawesome`](https://github.com/blomstra/flarum-ext-fontawesome)
+* [`clarkwinkelmann/flarum-ext-popular-discussion-badge`](https://github.com/clarkwinkelmann/flarum-ext-popular-discussion-badge)
+* [`davwheat/flarum-ext-ads`](https://github.com/davwheat/flarum-ext-ads)
+* [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam)
+* [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts)
+* [`fof/horizon`](https://github.com/FriendsOfFlarum/horizon)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
+* [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions)
+* [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha)
+* [`fof/sentry`](https://github.com/FriendsOfFlarum/sentry)
+* [`fof/sitemap`](https://github.com/FriendsOfFlarum/sitemap)
+* [`fof/socialprofile`](https://github.com/FriendsOfFlarum/socialprofile)
+* [`glowingblue/password-strength`](https://github.com/glowingblue/flarum-ext-password-strength)
+* [`huseyinfiliz/modern-footer`](https://github.com/huseyinfiliz/modern-footer)
+* [`ianm/twofactor`](https://github.com/imorland/flarum-ext-twofactor)
+
+
+Alle Änderungen: [1.25.4...1.25.5](https://github.com/flarum-lang/german/compare/1.25.4...1.25.5).
+
+
+1.25.4 (2026-01-06)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`fof/discussion-templates`](https://github.com/FriendsOfFlarum/discussion-templates)
+* [`huseyinfiliz/sticky-title`](https://github.com/huseyinfiliz/sticky-title)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam)
+* [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu)
+* [`fof/masquerade`](https://github.com/FriendsOfFlarum/masquerade)
+* [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
+* [`fof/pretty-mail`](https://github.com/FriendsOfFlarum/pretty-mail)
+* [`fof/prevent-necrobumping`](https://github.com/FriendsOfFlarum/prevent-necrobumping)
+* [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions)
+
+
+Alle Änderungen: [1.25.3...1.25.4](https://github.com/flarum-lang/german/compare/1.25.3...1.25.4).
+
+
+1.25.3 (2025-12-22)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`fof/moderator-warnings`](https://github.com/FriendsOfFlarum/moderator-warnings)
+
+
+Alle Änderungen: [1.25.2...1.25.3](https://github.com/flarum-lang/german/compare/1.25.2...1.25.3).
+
+
+1.25.2 (2025-12-08)
+-------------------
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`fof/nightmode`](https://github.com/FriendsOfFlarum/nightmode)
+* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
+
+
+Alle Änderungen: [1.25.1...1.25.2](https://github.com/flarum-lang/german/compare/1.25.1...1.25.2).
+
+
+1.25.1 (2025-12-04)
+-------------------
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`fof/doorman`](https://github.com/FriendsOfFlarum/doorman)
+* [`fof/filter`](https://github.com/FriendsOfFlarum/filter)
+* [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags)
+* [`fof/geoip`](https://github.com/FriendsOfFlarum/geoip)
+
+
+Alle Änderungen: [1.25.0...1.25.1](https://github.com/flarum-lang/german/compare/1.25.0...1.25.1).
+
+
+1.25.0 (2025-12-01)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`kilowhat/flarum-ext-formulaire`](https://flarum.org/extension/kilowhat/flarum-ext-formulaire)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer)
+* [`fof/default-user-preferences`](https://github.com/FriendsOfFlarum/default-user-preferences)
+* [`fof/doorman`](https://github.com/FriendsOfFlarum/doorman)
+* [`fof/filter`](https://github.com/FriendsOfFlarum/filter)
+* [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags)
+* [`fof/forum-statistics-widget`](https://github.com/FriendsOfFlarum/forum-statistics-widget)
+* [`fof/impersonate`](https://github.com/FriendsOfFlarum/impersonate)
+
+
+Alle Änderungen: [1.24.1...1.25.0](https://github.com/flarum-lang/german/compare/1.24.1...1.25.0).
+
+
+1.24.1 (2025-11-28)
+-------------------
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`clarkwinkelmann/flarum-ext-popular-discussion-badge`](https://github.com/clarkwinkelmann/flarum-ext-popular-discussion-badge)
+* [`fof/links`](https://github.com/FriendsOfFlarum/links)
+* [`fof/nightmode`](https://github.com/FriendsOfFlarum/nightmode)
+* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth)
+
+
+Alle Änderungen: [1.24.0...1.24.1](https://github.com/flarum-lang/german/compare/1.24.0...1.24.1).
+
+
+1.24.0 (2025-11-12)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`flectar/flarum-turnstile`](https://github.com/flectar/flarum-ext-turnstile)
+* [`ianm/translate`](https://flarum.org/extension/ianm/translate)
+
+
+Alle Änderungen: [1.23.0...1.24.0](https://github.com/flarum-lang/german/compare/1.23.0...1.24.0).
+
+
+1.23.0 (2025-10-20)
+-------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+* Validation Übersetzungen aktualisiert.
+
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`ianm/online-guests`](https://github.com/imorland/flarum-ext-online-guests-widget)
+
+
+Alle Änderungen: [1.22.0...1.23.0](https://github.com/flarum-lang/german/compare/1.22.0...1.23.0).
+
+
+1.22.0 (2025-09-08)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`neoncube/flarum-private-messages`](https://github.com/neoncube2/flarum-private-messages)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
+
+
+Alle Änderungen: [1.21.0...1.22.0](https://github.com/flarum-lang/german/compare/1.21.0...1.22.0).
+
+
+1.21.0 (2025-09-05)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`blazite/flarum-turnstile`](https://github.com/blazite/flarum-ext-turnstile)
+* [`clarkwinkelmann/flarum-ext-prominent-post-numbers`](https://github.com/clarkwinkelmann/flarum-ext-prominent-post-numbers)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`afrux/top-posters-widget`](https://github.com/afrux/top-posters-widget)
+* [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview)
+* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer)
+* [`fof/cookie-consent`](https://github.com/FriendsOfFlarum/cookie-consent)
+
+
+Alle Änderungen: [1.20.0...1.21.0](https://github.com/flarum-lang/german/compare/1.20.0...1.21.0).
+
+
+1.20.0 (2025-08-12)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`shebaoting/money`](https://github.com/shebaoting/money)
+* [`zhihe/primary-posts`](https://github.com/echolocked/zhihe-primary-posts)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
+
+
+Alle Änderungen: [1.19.1...1.20.0](https://github.com/flarum-lang/german/compare/1.19.1...1.20.0).
+
+
+1.19.1 (2025-06-11)
+-------------------
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges)
+
+
+Alle Änderungen: [1.19.0...1.19.1](https://github.com/flarum-lang/german/compare/1.19.0...1.19.1).
+
+
+1.19.0 (2025-05-25)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`fof/discussion-views`](https://github.com/FriendsOfFlarum/discussion-views)
+
+
+Alle Änderungen: [1.18.1...1.19.0](https://github.com/flarum-lang/german/compare/1.18.1...1.19.0).
+
+
+1.18.1 (2025-04-30)
+-------------------
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`afrux/online-users-widget`](https://github.com/afrux/online-users-widget)
+* [`fof/doorman`](https://github.com/FriendsOfFlarum/doorman)
+* [`fof/impersonate`](https://github.com/FriendsOfFlarum/impersonate)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
+* [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory)
+* [`ianm/follow-users`](https://github.com/imorland/follow-users)
+
+
+Alle Änderungen: [1.18.0...1.18.1](https://github.com/flarum-lang/german/compare/1.18.0...1.18.1).
+
+
+1.18.0 (2025-04-22)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`fof/horizon`](https://github.com/FriendsOfFlarum/horizon)
+* [`fof/synopsis`](https://github.com/FriendsOfFlarum/synopsis)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`clarkwinkelmann/flarum-ext-emojionearea`](https://github.com/clarkwinkelmann/flarum-ext-emojionearea)
+* [`ianm/twofactor`](https://github.com/imorland/flarum-ext-twofactor)
+
+
+Alle Änderungen: [1.17.0...1.18.0](https://github.com/flarum-lang/german/compare/1.17.0...1.18.0).
+
+
+1.17.0 (2025-01-14)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`blomstra/horizon`](https://github.com/blomstra/flarum-ext-horizon)
+* [`clarkwinkelmann/flarum-ext-anonymous-posting`](https://github.com/clarkwinkelmann/flarum-ext-anonymous-posting)
+* [`datitisev/flarum-post-galleries`](https://github.com/dsevillamartin/flarum-post-galleries)
+* [`fof/clockwork`](https://github.com/FriendsOfFlarum/clockwork)
+* [`huseyinfiliz/flagify`](https://github.com/huseyinfiliz/flagify)
+* [`huseyinfiliz/modern-footer`](https://github.com/huseyinfiliz/modern-footer)
+* [`justoverclock/reputation-score`](https://flarum.org/extension/justoverclock/reputation-score)
+* `nodeloc-ignore-hidden-tags`
+* [`shebaoting/repost`](https://github.com/shebaoting/Repost)
+* [`xypp/store-auto-checkin`](https://github.com/zxy19/flarum-store-auto-checkin)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab)
+* [`askvortsov/flarum-pwa`](https://github.com/askvortsov1/flarum-pwa)
+* [`flarum/gdpr`](https://github.com/flarum/gdpr)
+* [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam)
+* [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips)
+* [`fof/drafts`](https://github.com/FriendsOfFlarum/drafts)
+* [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags)
+* [`fof/moderator-notes`](https://github.com/FriendsOfFlarum/moderator-notes)
+* [`fof/share-social`](https://github.com/FriendsOfFlarum/share-social)
+* [`fof/terms`](https://github.com/FriendsOfFlarum/terms)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
+* [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio)
+* [`fof/user-directory`](https://github.com/FriendsOfFlarum/user-directory)
+* [`justoverclock/newsletter`](https://github.com/justoverclockl/newsletter)
+* [`justoverclock/flarum-ext-purify`](https://github.com/justoverclockl/flarum-ext-purify)
+
+
+Alle Änderungen: [1.16.1...1.17.0](https://github.com/flarum-lang/german/compare/1.16.1...1.17.0).
+
+
+1.16.1 (2024-12-15)
+-------------------
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`flarum/emoji`](https://github.com/flarum/emoji)
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+* [`flarum/gdpr`](https://github.com/flarum/gdpr)
+* [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/lock`](https://github.com/flarum/lock)
+* [`flarum/mentions`](https://github.com/flarum/mentions)
+* [`flarum/nicknames`](https://github.com/flarum/nicknames)
+* [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
+* [`flarum/suspend`](https://github.com/flarum/suspend)
+* [`flarum/tags`](https://github.com/flarum/tags)
+
+
+Alle Änderungen: [1.16.0...1.16.1](https://github.com/flarum-lang/german/compare/1.16.0...1.16.1).
+
+
+1.16.0 (2024-11-09)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`flarum/gdpr`](https://github.com/flarum/gdpr)
+* [`gtdxyz/flarum-ext-badges`](https://github.com/daocatt/flarum-ext-badges)
+
+
+Alle Änderungen: [1.15.1...1.16.0](https://github.com/flarum-lang/german/compare/1.15.1...1.16.0).
+
+
+1.15.1 (2024-10-12)
+-------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions)
+
+
+Alle Änderungen: [1.15.0...1.15.1](https://github.com/flarum-lang/german/compare/1.15.0...1.15.1).
+
+
+1.15.0 (2024-10-02)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`clarkwinkelmann/flarum-ext-post-stream-search`](https://github.com/clarkwinkelmann/flarum-ext-post-stream-search)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer)
+* [`fof/geoip`](https://github.com/FriendsOfFlarum/geoip)
+
+
+Alle Änderungen: [1.14.0...1.15.0](https://github.com/flarum-lang/german/compare/1.14.0...1.15.0).
+
+
+1.14.0 (2024-09-21)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`ianm/no-meta-title`](https://github.com/imorland/no-meta-title)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`justoverclock/steam-api`](https://flarum.org/extension/justoverclock/steam-api)
+
+
+Alle Änderungen: [1.13.0...1.14.0](https://github.com/flarum-lang/german/compare/1.13.0...1.14.0).
+
+
+1.13.0 (2024-07-10)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`clarkwinkelmann/flarum-ext-money-to-all`](https://github.com/clarkwinkelmann/flarum-ext-money-to-all)
+* [`ianm/twofactor`](https://github.com/imorland/flarum-ext-twofactor)
+* [`justoverclock/discussion-tags`](https://flarum.org/extension/justoverclock/discussion-tags)
+* [`justoverclock/steam-api`](https://flarum.org/extension/justoverclock/steam-api)
+* [`katosdev/signature`](https://github.com/katosdev/signature)
+* [`kilowhat/flarum-ext-audit-free`](https://github.com/kilowhat/flarum-ext-audit-free)
+* [`litalino/flarum-country-flags`](https://github.com/Litalino/flarum-country-flags)
+* [`migratetoflarum/fake-data`](https://github.com/migratetoflarum/fake-data)
+* [`nearata/flarum-ext-embed-video`](https://github.com/Nearata/flarum-ext-embed-video)
+* [`nearata/flarum-ext-related-discussions`](https://github.com/Nearata/flarum-ext-related-discussions)
+* [`ziiven/money-transfer`](https://github.com/Ziiven/ziven-money-transfer)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`acpl/my-tags`](https://github.com/android-com-pl/my-tags)
+* [`afrux/asirem`](https://github.com/afrux/asirem)
+* [`afrux/news-widget`](https://github.com/afrux/news-widget)
+* [`blomstra/gdpr`](https://github.com/blomstra/flarum-ext-gdpr)
+* [`clarkwinkelmann/flarum-ext-colorful-borders`](https://github.com/clarkwinkelmann/flarum-ext-colorful-borders)
+* [`clarkwinkelmann/flarum-ext-emojionearea`](https://github.com/clarkwinkelmann/flarum-ext-emojionearea)
+* [`clarkwinkelmann/flarum-ext-group-list`](https://github.com/clarkwinkelmann/flarum-ext-group-list)
+* [`clarkwinkelmann/flarum-ext-popular-discussion-badge`](https://github.com/clarkwinkelmann/flarum-ext-popular-discussion-badge)
+* [`datlechin/flarum-birthdays`](https://github.com/datlechin/flarum-birthdays)
+* [`datlechin/flarum-copy-links`](https://github.com/datlechin/flarum-copy-links)
+* [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview)
+* [`datlechin/flarum-simple-tour-guide`](https://github.com/datlechin/flarum-simple-tour-guide)
+* [`davwheat/custom-sidenav-links`](https://github.com/davwheat/flarum-ext-custom-sidenav-links)
+* [`flarum/emoji`](https://github.com/flarum/emoji)
+* [`flarum/flags`](https://github.com/flarum/flags)
+* [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags)
+* [`fof/links`](https://github.com/FriendsOfFlarum/links)
+* [`fof/profile-image-crop`](https://github.com/FriendsOfFlarum/profile-image-crop)
+* [`ianm/level-ranks`](https://github.com/imorland/level-ranks)
+* [`migratetoflarum/canonical`](https://github.com/migratetoflarum/canonical)
+* [`nearata/flarum-ext-auth-minecraft`](https://github.com/Nearata/flarum-ext-auth-minecraft)
+* [`nearata/flarum-ext-maintenance-mode`](https://github.com/Nearata/flarum-ext-maintenance-mode)
+* [`sycho/flarum-force-password-reset`](https://github.com/SychO9/flarum-force-password-reset)
+
+
+Alle Änderungen: [1.12.0...1.13.0](https://github.com/flarum-lang/german/compare/1.12.0...1.13.0).
+
+
+1.12.0 (2024-07-04)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`clarkwinkelmann/flarum-ext-colorful-borders`](https://github.com/clarkwinkelmann/flarum-ext-colorful-borders)
+* [`clarkwinkelmann/flarum-ext-composer-page`](https://github.com/clarkwinkelmann/flarum-ext-composer-page)
+* [`clarkwinkelmann/flarum-ext-discussion-bookmarks`](https://github.com/clarkwinkelmann/flarum-ext-discussion-bookmarks)
+* [`clarkwinkelmann/flarum-ext-formatted-banner`](https://github.com/clarkwinkelmann/flarum-ext-formatted-banner)
+* [`clarkwinkelmann/flarum-ext-popular-discussion-badge`](https://github.com/clarkwinkelmann/flarum-ext-popular-discussion-badge)
+* [`datlechin/flarum-discussion-overview`](https://github.com/datlechin/flarum-discussion-overview)
+* [`datlechin/flarum-simple-tour-guide`](https://github.com/datlechin/flarum-simple-tour-guide)
+* [`davwheat/flarum-ext-ads`](https://github.com/davwheat/flarum-ext-ads)
+* [`davwheat/custom-sidenav-links`](https://github.com/davwheat/flarum-ext-custom-sidenav-links)
+* [`fof/anti-spam`](https://github.com/FriendsOfFlarum/anti-spam)
+* [`fof/profile-image-crop`](https://github.com/FriendsOfFlarum/profile-image-crop)
+* [`huoxin/auto-follow-discussion`](https://github.com/huoxin233/flarum-ext-auto-follow-discussion)
+* [`ianm/boring-avatars`](https://github.com/imorland/flarum-ext-boring-avatars)
+* [`ianm/log-viewer`](https://github.com/imorland/flarum-ext-log-viewer)
+* [`justoverclock/be-active-user-indicator`](https://github.com/justoverclockl/active-user-indicator)
+* [`justoverclock/best-answer-badge`](https://github.com/justoverclockl/best-answer-badge)
+* [`madeyedeer/avatar-tools`](https://github.com/MadEyeDeer/avatar-tools)
+* [`madeyedeer/flarum-pallet-theme`](https://github.com/MadEyeDeer/flarum-pallet-theme)
+* [`nearata/flarum-ext-maintenance-mode`](https://github.com/Nearata/flarum-ext-maintenance-mode)
+* [`nearata/flarum-ext-tags-color-generator`](https://github.com/Nearata/flarum-ext-tags-color-generator)
+* [`peruguitar/flarum-ext-user-portrait`](https://github.com/Anexsoft/peruguitar-flarum-ext-user-portrait)
+* [`sycho/flarum-force-password-reset`](https://github.com/SychO9/flarum-force-password-reset)
+* [`tohsakarat/table-of-content`](https://github.com/tohsakrat/flarum-table-of-content)
+* [`yippy/flarum-tag-with-themes`](https://github.com/Yippy/flarum-tag-with-themes)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`acpl/mobile-tab`](https://github.com/android-com-pl/mobile-tab)
+* [`antoinefr/flarum-ext-money`](https://github.com/AntoineFr/flarum-ext-money)
+* [`blomstra/gdpr`](https://github.com/blomstra/flarum-ext-gdpr)
+* [`blomstra/payments`](https://flarum.org/extension/blomstra/payments)
+* [`datlechin/flarum-copy-links`](https://github.com/datlechin/flarum-copy-links)
+* [`datlechin/flarum-scroll-buttons`](https://github.com/datlechin/flarum-scroll-buttons)
+* [`fof/discussion-language`](https://github.com/FriendsOfFlarum/discussion-language)
+* [`fof/links`](https://github.com/FriendsOfFlarum/links)
+* [`fof/split`](https://github.com/FriendsOfFlarum/split)
+* [`justoverclock/flarum-ext-keywords`](https://github.com/justoverclockl/flarum-ext-keywords)
+* [`nearata/flarum-ext-auth-minecraft`](https://github.com/Nearata/flarum-ext-auth-minecraft)
+* [`sycho/flarum-private-facade`](https://github.com/SychO9/flarum-private-facade)
+* [`webbinaro/flarum-calendar`](https://github.com/eddiewebb/flarum-calendar)
+
+
+Alle Änderungen: [1.11.0...1.12.0](https://github.com/flarum-lang/german/compare/1.11.0...1.12.0).
+
+
+1.11.0 (2024-05-11)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`blomstra/gdpr`](https://github.com/blomstra/flarum-ext-gdpr)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`datlechin/flarum-link-preview`](https://github.com/datlechin/flarum-link-preview)
+* [`fof/sitemap`](https://github.com/FriendsOfFlarum/sitemap)
+* [`fof/upload`](https://github.com/FriendsOfFlarum/upload)
+
+
+Alle Änderungen: [1.10.0...1.11.0](https://github.com/flarum-lang/german/compare/1.10.0...1.11.0).
+
+
+1.10.0 (2024-04-05)
+-------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`sas_sam/flarum-regrole`](https://github.com/SasSam/flarum-regrole)
+
+
+Alle Änderungen: [1.9.0...1.10.0](https://github.com/flarum-lang/german/compare/1.9.0...1.10.0).
+
+
+1.9.0 (2024-02-29)
+------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
+
+
+Alle Änderungen: [1.8.3...1.9.0](https://github.com/flarum-lang/german/compare/1.8.3...1.9.0).
+
+
+1.8.3 (2023-10-24)
+------------------
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`fof/follow-tags`](https://github.com/FriendsOfFlarum/follow-tags)
+
+
+Alle Änderungen: [1.8.2...1.8.3](https://github.com/flarum-lang/german/compare/1.8.2...1.8.3).
+
+
+1.8.2 (2023-10-08)
+------------------
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`fof/terms`](https://github.com/FriendsOfFlarum/terms)
+* [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio)
+* [`fof/username-request`](https://github.com/FriendsOfFlarum/username-request)
+
+
+Alle Änderungen: [1.8.1...1.8.2](https://github.com/flarum-lang/german/compare/1.8.1...1.8.2).
+
+
+1.8.1 (2023-09-21)
+------------------
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
+
+
+Alle Änderungen: [1.8.0...1.8.1](https://github.com/flarum-lang/german/compare/1.8.0...1.8.1).
+
+
+1.8.0 (2023-09-13)
+------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`blomstra/conversations`](https://github.com/blomstra/flarum-ext-conversations)
+* [`blomstra/oauth-apple`](https://github.com/blomstra/flarum-ext-oauth-apple)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`acpl/flarum-lscache`](https://github.com/android-com-pl/flarum-lscache)
+
+
+Alle Änderungen: [1.7.0...1.8.0](https://github.com/flarum-lang/german/compare/1.7.0...1.8.0).
+
+
+1.7.0 (2023-07-20)
+------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`annonny/flarum-dice`](https://github.com/mizhiyugan529/flarum-dice)
+* [`blomstra/fontawesome`](https://github.com/blomstra/flarum-ext-fontawesome)
+* [`clarkwinkelmann/flarum-ext-ipsum-autocomplete`](https://github.com/clarkwinkelmann/flarum-ext-ipsum-autocomplete)
+* [`clarkwinkelmann/flarum-ext-meilisearch-dashboard`](https://github.com/clarkwinkelmann/flarum-ext-meilisearch-dashboard)
+* [`justoverclock/export-post-to-pdf`](https://extiverse.com/extension/justoverclock/export-post-to-pdf)
+* [`justoverclock/staff-members-widget`](https://github.com/justoverclockl/staff-member-widget)
+* [`marchccc/flarum-ext-mentions-group-users`](https://github.com/Marchccc/flarum-ext-mentions-group-users)
+* [`matteociaroni/flarum-public-suspensions`](https://github.com/matteociaroni/flarum-public-suspensions)
+* [`michaelbelgium/mybb-to-flarum`](https://github.com/MichaelBelgium/mybb_to_flarum)
+* [`widayn/flarum-avatar-cropper`](https://github.com/WiDayn/flarum-avatar-cropper)
+* [`ziiven/flarum-post-number`](https://github.com/Ziiven/flarum-post-number)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`askvortsov/flarum-article-series`](https://github.com/askvortsov1/flarum-article-series)
+* [`askvortsov/flarum-moderator-warnings`](https://github.com/askvortsov1/flarum-moderator-warnings)
+* [`askvortsov/flarum-pwa`](https://github.com/askvortsov1/flarum-pwa)
+* [`blomstra/payments`](https://extiverse.com/extension/blomstra/payments)
+* [`clarkwinkelmann/catch-the-fish`](https://github.com/clarkwinkelmann/catch-the-fish)
+* [`clarkwinkelmann/flarum-ext-mailing`](https://github.com/clarkwinkelmann/flarum-ext-mailing)
+* [`clarkwinkelmann/flarum-ext-passwordless`](https://github.com/clarkwinkelmann/flarum-ext-passwordless)
+* [`datlechin/flarum-signup-button`](https://github.com/datlechin/flarum-signup-button)
+* [`flamarkt/backoffice`](https://github.com/flamarkt/backoffice)
+* [`fof/analytics`](https://github.com/FriendsOfFlarum/analytics)
+* [`fof/best-answer`](https://github.com/FriendsOfFlarum/best-answer)
+* [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu)
+* [`fof/default-user-preferences`](https://github.com/FriendsOfFlarum/default-user-preferences)
+* [`fof/discussion-language`](https://github.com/FriendsOfFlarum/discussion-language)
+* [`fof/gamification`](https://github.com/FriendsOfFlarum/gamification)
+* [`fof/ignore-users`](https://github.com/FriendsOfFlarum/ignore-users)
+* [`fof/linguist`](https://github.com/FriendsOfFlarum/linguist)
+* [`fof/links`](https://github.com/FriendsOfFlarum/links)
+* [`fof/merge-discussions`](https://github.com/FriendsOfFlarum/merge-discussions)
+* [`fof/oauth`](https://github.com/FriendsOfFlarum/oauth)
+* [`fof/polls`](https://github.com/FriendsOfFlarum/polls)
+* [`fof/reactions`](https://github.com/FriendsOfFlarum/reactions)
+* [`fof/recaptcha`](https://github.com/FriendsOfFlarum/recaptcha)
+* [`fof/sentry`](https://github.com/FriendsOfFlarum/sentry)
+* [`fof/share-social`](https://github.com/FriendsOfFlarum/share-social)
+* [`fof/sitemap`](https://github.com/FriendsOfFlarum/sitemap)
+* [`fof/user-bio`](https://github.com/FriendsOfFlarum/user-bio)
+* [`fof/webhooks`](https://github.com/FriendsOfFlarum/webhooks)
+* [`ianm/follow-users`](https://github.com/imorland/follow-users)
+* [`ianm/synopsis`](https://github.com/imorland/synopsis)
+* [`jslirola/flarum-ext-login2seeplus`](https://github.com/jslirola/flarum-ext-login2seeplus)
+* [`justoverclock/discussion-info`](https://github.com/justoverclockl/discussions-info)
+* [`justoverclock/related-discussions`](https://extiverse.com/extension/justoverclock/related-discussions)
+* [`michaelbelgium/flarum-discussion-views`](https://github.com/MichaelBelgium/flarum-discussion-views)
+* [`spookygames/flarum-ext-auth-keycloak`](https://github.com/spookygames/flarum-ext-auth-keycloak)
+* [`the-turk/flarum-stickiest`](https://github.com/the-turk/flarum-stickiest)
+* [`v17development/flarum-blog`](https://github.com/v17development/flarum-blog)
+* [`v17development/flarum-support`](https://extiverse.com/extension/v17development/flarum-support)
+* [`v17development/flarum-user-badges`](https://github.com/v17development/flarum-user-badges)
+* [`the-turk/flarum-flamoji`](https://github.com/the-turk/flarum-flamoji)
+
+
+Alle Änderungen: [1.6.0...1.7.0](https://github.com/flarum-lang/german/compare/1.6.0...1.7.0).
+
+
+1.6.0 (2023-06-22)
+------------------
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`the-turk/flarum-flamoji`](https://github.com/the-turk/flarum-flamoji)
+
+
+Alle Änderungen: [1.5.0...1.6.0](https://github.com/flarum-lang/german/compare/1.5.0...1.6.0).
+
+
+1.5.0 (2023-06-12)
+------------------
+
+**Added support for formal variant of translations**.
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Unterstützung für neue Erweiterungen hinzugefügt**:
+
+* [`flarum/bbcode`](https://github.com/flarum/bbcode)
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`flarum/mentions`](https://github.com/flarum/mentions)
+
+
+Alle Änderungen: [1.4.10...1.5.0](https://github.com/flarum-lang/german/compare/1.4.10...1.5.0).
+
+
+1.4.10 (2023-06-06)
+-------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+* Validation Übersetzungen aktualisiert.
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`flarum/approval`](https://github.com/flarum/approval)
+* [`flarum/emoji`](https://github.com/flarum/emoji)
+* [`flarum/flags`](https://github.com/flarum/flags)
+* [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/lock`](https://github.com/flarum/lock)
+* [`flarum/mentions`](https://github.com/flarum/mentions)
+* [`flarum/nicknames`](https://github.com/flarum/nicknames)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
+* [`flarum/tags`](https://github.com/flarum/tags)
+* [`fof/username-request`](https://github.com/FriendsOfFlarum/username-request)
+* [`nearata/flarum-ext-minecraft-avatars`](https://github.com/Nearata/flarum-ext-minecraft-avatars)
+
+
+Alle Änderungen: [1.4.9...1.4.10](https://github.com/flarum-lang/german/compare/1.4.9...1.4.10).
+
+
+1.4.9 (2023-05-20)
+------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/mentions`](https://github.com/flarum/mentions)
+
+
+Alle Änderungen: [1.4.8...1.4.9](https://github.com/flarum-lang/german/compare/1.4.8...1.4.9).
+
+
+1.4.8 (2023-03-13)
+------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+Alle Änderungen: [1.4.7...1.4.8](https://github.com/flarum-lang/german/compare/1.4.7...1.4.8).
+
+
+1.4.7 (2023-03-11)
+------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`flarum/lock`](https://github.com/flarum/lock)
+* [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`flarum/tags`](https://github.com/flarum/tags)
+* [`fof/byobu`](https://github.com/FriendsOfFlarum/byobu)
+
+
+Alle Änderungen: [1.4.6...1.4.7](https://github.com/flarum-lang/german/compare/1.4.6...1.4.7).
+
+
+1.4.6 (2022-12-05)
+------------------
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`blomstra/realtime`](https://extiverse.com/extension/blomstra/realtime)
+
+
+Alle Änderungen: [1.4.5...1.4.6](https://github.com/flarum-lang/german/compare/1.4.5...1.4.6).
+
+
+1.4.5 (2022-12-02)
+------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`afrux/asirem`](https://github.com/afrux/asirem)
+* [`askvortsov/flarum-moderator-warnings`](https://github.com/askvortsov1/flarum-moderator-warnings)
+* [`blomstra/realtime`](https://extiverse.com/extension/blomstra/realtime)
+* [`clarkwinkelmann/flarum-ext-collapsible-posts`](https://github.com/clarkwinkelmann/flarum-ext-collapsible-posts)
+* [`clarkwinkelmann/flarum-ext-passwordless`](https://github.com/clarkwinkelmann/flarum-ext-passwordless)
+* [`fof/ban-ips`](https://github.com/FriendsOfFlarum/ban-ips)
+* [`fof/moderator-notes`](https://github.com/FriendsOfFlarum/moderator-notes)
+* [`fof/subscribed`](https://github.com/FriendsOfFlarum/subscribed)
+* [`ianm/follow-users`](https://github.com/imorland/follow-users)
+* [`justoverclock/flarum-ext-contactme`](https://github.com/justoverclockl/flarum-ext-contactme)
+* [`the-turk/flarum-diff`](https://github.com/the-turk/flarum-diff)
+
+
+Alle Änderungen: [1.4.4...1.4.5](https://github.com/flarum-lang/german/compare/1.4.4...1.4.5).
+
+
+1.4.4 (2022-11-15)
+------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`flarum/mentions`](https://github.com/flarum/mentions)
+* [`flarum/statistics`](https://github.com/flarum/statistics)
+
+
+Alle Änderungen: [1.4.3...1.4.4](https://github.com/flarum-lang/german/compare/1.4.3...1.4.4).
+
+
+1.4.3 (2022-10-07)
+------------------
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`datlechin/flarum-birthdays`](https://github.com/datlechin/flarum-birthdays)
+
+
+Alle Änderungen: [1.4.2...1.4.3](https://github.com/flarum-lang/german/compare/1.4.2...1.4.3).
+
+
+1.4.2 (2022-09-13)
+------------------
+
+**Allgemeine Änderungen**:
+
+* Flarum-Core Übersetzungen aktualisiert.
+
+
+**Übersetzungen für Erweiterungen aktualisiert**:
+
+* [`flarum/likes`](https://github.com/flarum/likes)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
+* [`flarum/suspend`](https://github.com/flarum/suspend)
+* [`fof/spamblock`](https://github.com/FriendsOfFlarum/spamblock)
+
+
+Alle Änderungen: [1.4.1...1.4.2](https://github.com/flarum-lang/german/compare/1.4.1...1.4.2).
+
+
+1.4.1 (2022-08-30)
+------------------
+
+**Updated translations for extensions**:
+
+* [`clarkwinkelmann/flarum-ext-first-post-approval`](https://github.com/clarkwinkelmann/flarum-ext-first-post-approval)
+* [`nearata/flarum-ext-minecraft-avatars`](https://github.com/Nearata/flarum-ext-minecraft-avatars)
+
+
+All changes: [1.4.0...1.4.1](https://github.com/flarum-lang/german/compare/1.4.0...1.4.1).
